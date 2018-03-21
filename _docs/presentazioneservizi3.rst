@@ -53,13 +53,13 @@ L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiaman
    L’Archivio  Storicooccupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico:Dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
    
 **Quanto costa il servizio**
-   Il  servizio  è  completamente  gratuito,  fatta  eccezione  per  i  costi  determinati  dalle  eventuali  richieste  di riproduzioni o copie  che variano, come da prospetti presenti nella modulistica distinta per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf> `_.
+   Il  servizio  è  completamente  gratuito,  fatta  eccezione  per  i  costi  determinati  dalle  eventuali  richieste  di riproduzioni o copie  che variano, come da prospetti presenti nella modulistica distinta per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
    
 **Modulistica propedeutica all’erogazione del servizio**
    La modulistica è prevista secondo il servizio richiesto:
    
    - per la consultazione (gratuita): `modulistica <http://librarsi.comune.palermo.it/export/sites/librarsi/.content/images/modulo_consultazione2.doc>`_
    
-   - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf> `_.
+   - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
 
 
