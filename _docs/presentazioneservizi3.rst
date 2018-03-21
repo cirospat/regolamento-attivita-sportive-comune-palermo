@@ -70,11 +70,11 @@ A  tutti  i  cittadiniitaliani,  stranieri,  residenti  e  non,  anziani,  stude
    
 **Quali  sono  i  passi  per  usufruire  del  servizio - Modalità  di  accesso (fisica e multicanale) e requisiti per l’accesso** 
 
-Per accedere al Servizio basta recarsi presso lasede dell’Archivio Storico, in Via Maqueda n. 157, nei giorni e negli orari meglio in seguito specificati o attraverso il link Libr@rsilibrarsi.comune.palermo.it
+Per accedere al Servizio basta recarsi presso lasede dell’Archivio Storico, in Via Maqueda n. 157, nei giorni e negli orari meglio in seguito specificati o attraverso il link Libr@rsi http://librarsi.comune.palermo.it
    
 **Organizzazione** 
 
-L’Archivio  Storicooccupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico:Dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
+L’Archivio  Storico occupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico: dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
    
 **Quanto costa il servizio** 
 
@@ -97,7 +97,7 @@ Il  7  Maggio  2004,  a  seguito  di  un  protocollo  d'intesa  tra  il  Comune 
 
 **Finalità specifiche e Cosa offriamo** 
 
-Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Biblioteca  Comunale  edalle  6  Biblioteche territoriali.  Tali  strutture  svolgono  un  fondamentale  servizio  di  promozione  della  lettura,  rivolto  a  tutti  i  cittadini  che  desiderano  consultare  testi  e  documenti  riguardanti  la  storia  della  città  in  particolare,  e  della  storia in generale. `Libr@rsi <http://librarsi.comune.palermo.it/polo/home>`_  è  il  Portale  del  Polo  SBN  del  Sistema  Bibliotecario  Cittadino  delComune  di  Palermo, che  si  propone  come  indice  di  vari  servizi;  il  portale  è  suddiviso  in  4  Sezioni,  all’interno  delle  quali  è  possibile  ottenere informazioni e servizi evoluti in tempo reale: tutti i servizi sono erogati a partire dal Catalogo on-line di Polo. Librarsi  è  anche  la  vetrina  di  ogni  struttura  cooperante  di  questo  Polo:  attraverso  la  pagina `Biblioteche del Polo <http://librarsi.comune.palermo.it/polo/biblioteche-del-polo/index.html>`_, non solo è possibile consultare l'elenco delle biblioteche cooperanti, ma anche accedere al sito Internet della singola biblioteca. Presso la Biblioteca Comunale di Casa Professa è possibile usufruire dei servizi di:
+Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Biblioteca  Comunale  edalle  6  Biblioteche territoriali.  Tali  strutture  svolgono  un  fondamentale  servizio  di  promozione  della  lettura,  rivolto  a  tutti  i  cittadini  che  desiderano  consultare  testi  e  documenti  riguardanti  la  storia  della  città  in  particolare,  e  della  storia in generale. `Libr@rsi <http://librarsi.comune.palermo.it/polo/home>`_ è  il  Portale  del  Polo  SBN  del  Sistema  Bibliotecario  Cittadino  delComune  di  Palermo, che  si  propone  come  indice  di  vari  servizi;  il  portale  è  suddiviso  in  4  Sezioni,  all’interno  delle  quali  è  possibile  ottenere informazioni e servizi evoluti in tempo reale: tutti i servizi sono erogati a partire dal Catalogo on-line di Polo. Librarsi  è  anche  la  vetrina  di  ogni  struttura  cooperante  di  questo  Polo:  attraverso  la  pagina `Biblioteche del Polo <http://librarsi.comune.palermo.it/polo/biblioteche-del-polo/index.html>`_, non solo è possibile consultare l'elenco delle biblioteche cooperanti, ma anche accedere al sito Internet della singola biblioteca. Presso la Biblioteca Comunale di Casa Professa è possibile usufruire dei servizi di:
 
 **Servizio al Pubblico** 
 
@@ -125,7 +125,7 @@ A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tip
    
 **Quali sono i passi per usufruire del servizio - Modalità (fisica e multicanale) e requisiti per l’accesso** 
 
-Per accedere al Servizio basta recarsi presso la sede della Biblioteca Comunale di Casa Professa, nei giorni e negliorari meglio di seguito specificati o effettuare l’accesso online attraverso il link Libr@rsilibrarsi.comune.palermo.it
+Per accedere al Servizio basta recarsi presso la sede della Biblioteca Comunale di Casa Professa, nei giorni e negliorari meglio di seguito specificati o effettuare l’accesso online attraverso il link Libr@rsi http://librarsi.comune.palermo.it
    
 **Organizzazione** 
 
@@ -178,7 +178,7 @@ A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tip
    
 **Quali  sono  i  passi  per  usufruire  del  servizio** 
 
-Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti per l’accessoPer  accedere  al  Servizio  basta  recarsi  presso  la  sededella  biblioteca  nei  giorni  e  negli  orari  di  apertura  al  pubblico seguenti o effettuare l’accesso on line al Catalogo del Polo SBN tramite il sito Libr@rsi e App.
+Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti per l’accessoPer  accedere  al  Servizio  basta  recarsi  presso  la  sededella  biblioteca  nei  giorni  e  negli  orari  di  apertura  al  pubblico seguenti o effettuare l’accesso on line al Catalogo del Polo SBN tramite il sito Libr@rsi http://librarsi.comune.palermo.it e App.
    
 **Organizzazione** 
 
@@ -248,7 +248,7 @@ Per  accedere  al  Servizio  basta  recarsi  presso  la  sede  della  biblioteca
 
 **Organizzazione**
 
-La  Biblioteca  Pallavicino  si  trova  in  Via  G.  Spata,  10/20  (dietro  piazza  Bellissima  – accanto  l’Istituto  Alberghiero Paolo Borsellino. - tel. 091-7408046.
+La  Biblioteca  Pallavicino  si  trova  in  Via  G.  Spata,  10/20  (dietro  piazza  Bellissima  – accanto  l’Istituto  Alberghiero Paolo Borsellino. Tel. 091-7408046.
 
 **Giorni e Orari di apertura al pubblico**
 
@@ -269,7 +269,7 @@ Biblioteca multimediale "Villa Trabia", Via Antonino Salinas 3, Palermo
 
 **Finalità specifiche e Cosa offriamo**
 
-La Biblioteca si trova al piano terra della Casena di Villa Trabia alle Terre Rosse, una splendida isola verde di circa 60.000 metri quadri che costituisce il più ampio parco della città.Nel  nuovo  concetto  di  Biblioteca  a  scaffalature  aperte,  nel  quale  “Villa  Trabia”  si  configura,  l’utilizzo  dei  libri  o  di  qualsiasi  altro  materiale  da  parte  dell’utenteè  di  immediato  e  facile  accesso,  grazie  al  sistema diclassificazione Deweyin uso ormai nella maggior parte delle biblioteche del mondo. La Casena di Villa Trabia alle Terre Rosse ospita anche la Mediateca Comunale. 
+La Biblioteca si trova al piano terra della Casena di Villa Trabia alle Terre Rosse, una splendida isola verde di circa 60.000 metri quadri che costituisce il più ampio parco della città. Nel  nuovo  concetto  di  Biblioteca  a  scaffalature  aperte,  nel  quale  “Villa  Trabia”  si  configura,  l’utilizzo  dei  libri  o  di  qualsiasi  altro  materiale  da  parte  dell’utenteè  di  immediato  e  facile  accesso,  grazie  al  sistema diclassificazione Deweyin uso ormai nella maggior parte delle biblioteche del mondo. La Casena di Villa Trabia alle Terre Rosse ospita anche la Mediateca Comunale. 
 
 **A chi si rivolge**
 
@@ -335,7 +335,7 @@ Biblioteca dei bambini e dei ragazzi "il piccolo principe", Cortile Scalilla al 
 
 **Finalità specifiche e Cosa offriamo**
 
-La Biblioteca "dei bambini e dei ragazzi", è specializzata per una fascia di utenza dai 5/6 anni ai 16/18 anni. La  struttura  ha  al  suo  interno  uno  splendido  giardino  arabeggiante  con  vasche  la  cui  pavimentazione  è  a  mosaico  e  sedili  a  panca  decorati  con  mattonelle  con  disegni  originali  del  prof.  Pausic.  Splendidi  alberi  di  melograno,  corbezzolo,  arancio  amaro,  alloro  e  banano  sono  inseriti  nelle  grandi  vasche  cui  è  parcellato  il  giardino.La biblioteca per ragazzi si adopera per costruire “cultura” partendo dai bambini e dai ragazzi.
+La Biblioteca "dei bambini e dei ragazzi", è specializzata per una fascia di utenza dai 5/6 anni ai 16/18 anni. La  struttura  ha  al  suo  interno  uno  splendido  giardino  arabeggiante  con  vasche  la  cui  pavimentazione  è  a  mosaico  e  sedili  a  panca  decorati  con  mattonelle  con  disegni  originali  del  prof.  Pausic.  Splendidi  alberi  di  melograno,  corbezzolo,  arancio  amaro,  alloro  e  banano  sono  inseriti  nelle  grandi  vasche  cui  è  parcellato  il  giardino. La biblioteca per ragazzi si adopera per costruire "cultura" partendo dai bambini e dai ragazzi.
 
 **A chi si rivolge**
 
