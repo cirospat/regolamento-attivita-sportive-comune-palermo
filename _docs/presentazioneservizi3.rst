@@ -60,7 +60,7 @@ L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiaman
    
    - per la consultazione (gratuita): `modulistica <http://librarsi.comune.palermo.it/export/sites/librarsi/.content/images/modulo_consultazione2.doc>`_
    
-   - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
+   - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_, o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
 
 |
 
