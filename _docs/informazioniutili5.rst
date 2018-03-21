@@ -6,26 +6,26 @@ Informazioni utili - FAQ
 
 I nominativi dei responsabili dell’erogazione del servizio, i recapiti, le sedi e gli orari di erogazione, ecc. sono indicati nell’apposita TABELLA 2 per ogni servizio
 
-**2. Cosa fare per..... - Principali frequently asked questions (FAQ) inerenti il servizio**. 
+**2. Cosa fare per... Principali frequently asked questions (FAQ) inerenti il servizio**. 
 
 In  questa  sezione  si  propongono  le  risposte  ad  alcune  fra  le  domande  più  frequenti  che  vengono  poste  ai  nostri uffici. 
 
 FAQ Archivio Storico
 --------------------
 
-**D. 1. Cosa devo fare per accedere ai servizi dell’Archivio?**
+**D.1. Cosa devo fare per accedere ai servizi dell’Archivio?**
 
-R. 1. Puoi  iscriverti  di  persona,  presentando  documento  di  identità  valido  e  codice  fiscale.  Ti  verrà  consegnata gratuitamente la tessera dell’Archivio.
+R.1. Puoi  iscriverti  di  persona,  presentando  documento  di  identità  valido  e  codice  fiscale.  Ti  verrà  consegnata gratuitamente la tessera dell’Archivio.
 
 **D.2. Posso richiedere informazioni telefonicamente o per email?**
 
 R.2. Telefonicamente  è  possibile  richiedere  informazioni  sulla  disponibilità  di  documenti  archivistici  o  di  volumi  a  stampa  e  formulare  altre  richieste  di  base.  Domande  di  informazioni  e  consulenza  archivistica  o  bibliografica      più      articolatevengono      accolte      tramite      la      posta elettronica      all’email      sisitemabibliotecarioearchivo@comune.palermo.it
 
-**D.3.Quanti faldoni posso chiedere in consultazione?**
+**D.3. Quanti faldoni posso chiedere in consultazione?**
 
 R.3. Al massimo quattro faldoni.
 
-**D.4.Posso chiedere la copia fotostatica di testi?**
+**D.4. Posso chiedere la copia fotostatica di testi?**
 
 R.4. Sì,  può  essere  richiesta  la  copia  fotostatica  dei  testi  a  stampa,  previo  pagamento  del  servizio  di  riproduzione, utilizzando apposita modulistica, motivi di studio e per scopi commerciali.  
 
@@ -36,11 +36,11 @@ R.5. Sì,  è  possibile  richiedere  la  copia  digitale  di  documenti  manosc
 FAQ Biblioteche comunali
 ------------------------
 
-**D.6.Cosa devo fare per accedere ai servizi delle Biblioteche comunali?**
+**D.6. Cosa devo fare per accedere ai servizi delle Biblioteche comunali?**
 
 R.6.Puoi  iscriverti  di  persona,  presentando  documento  di  identità  valido  e  codice  fiscale.  Ti  verrà  consegnata gratuitamente la tessera della Biblioteca; se invece possiedi già la tessera di una delle biblioteche comunali puoi utilizzarla in tutte le altre biblioteche del sistema bibliotecario.
 
-**D.7.Come posso accedere al Catalogo Opac?**
+**D.7. Come posso accedere al Catalogo Opac?**
 
 R.7. On  line  attraverso  il  portale  del  Catalogo  Opac  del  Polo  SBN,  oppure  presso  le  postazioni  di  consultazione  del  Catalogo  presenti  nelle  Biblioteche  comunali  o  anche  attraverso  la  App  mobile  per dispositivi androidsmartphone e tablet.
 
@@ -96,7 +96,7 @@ FAQ Spazi Etnoantropologici – Biblioteca etnografica siciliana "Giuseppe Pitr�
 
 R.17. No, la nostra è una biblioteca d’Istituto.
 
-**D.18 Come accedere al catalogo OPAC?**
+**D.18. Come accedere al catalogo OPAC?**
 
 R.18. Sì può accedere attraverso il portale Online Libr@rsi del Comune di Palermo, oppure presso una postazione di consultazione del Catalogo presenti nella Biblioteca. 
 
