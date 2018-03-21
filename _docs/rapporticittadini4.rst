@@ -28,9 +28,9 @@ Per gli altri servizi di questa Carta:
 | Archivio        | del Servizio    | cartaceo agli   | attiverà alla   |
 | Cittadino e     | indicato nella  | indirizzi       | verifica e      |
 | Biblioteche     | sez. D          | riportati nella | risoluzione di  |
-| Comunali        |                 | sez. DNessuna   | quanto          |
-|                 |                 | modulistica     | suggerito o     |
-|                 |                 |                 | richiesto       |
+| Comunali        |                 | sez. D -        | quanto          |
+|                 |                 | Nessuna         | suggerito o     |
+|                 |                 | modulistica     | richiesto       |
 +-----------------+-----------------+-----------------+-----------------+
 | 2- Cantieri     | Al Capo Area    | Via email, o    | Il Servizio si  |
 | Culturali alla  | e/oalResponsabi | cartaceo agli   | attiverà alla   |
@@ -47,14 +47,13 @@ Per gli altri servizi di questa Carta:
 |                 |                 | ne.palermo.it   |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 3- Complesso    | Al Capo Area    | Telefonicamente | Il Servizio si  |
-| Monumentale     | e/oalResponsabi | o via fax (allo | attiverà alla   |
-| Santa Maria     | le              | 091.6161486) o  | verifica e      |
-| dello Spasimo   | del             | per e-mail      | risoluzione di  |
-|                 | Procedimento,   | all’indirizzo   | quanto          |
-|                 | così come       | spasimo@comune. | suggerito o     |
-|                 | indicato nella  | palermo.it      | richiesto,      |
-|                 | sezione D       | o nella sezione | modulistica     |
-|                 |                 | “Osservazioni e |                 |
+| Monumentale     | e/oalResponsabi | o via fax allo  | attiverà alla   |
+| Santa Maria     | le              | 091.6161486 o   | verifica e      |
+| dello Spasimo   | del             | per e-mail:     | risoluzione di  |
+|                 | Procedimento,   | spasimo@comune. | quanto          |
+|                 | così come       | palermo.it      | suggerito o     |
+|                 | indicato nella  | o nella sezione | richiesto,      |
+|                 | sezione D       | “Osservazioni e | modulistica     |
 |                 |                 | suggerimenti”   |                 |
 |                 |                 | del             |                 |
 |                 |                 | questionario    |                 |
@@ -63,13 +62,13 @@ Per gli altri servizi di questa Carta:
 |                 |                 | visitatori      |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 4- Servizio     | Al Capo Area    | Telefonicamente |                 |
-| Musei e Spazi   | e/oalResponsabi | o Via fax (tel. |                 |
-| Espositivi      | le              | 091.9828927) o  |                 |
-|                 | del             | per e-mail      |                 |
-|                 | Procedimento,   | all’indirizzo:  |                 |
-|                 | così come       | museispaziespos |                 |
-|                 | indicato nella  | itivi@comune.pa |                 |
-|                 | sezione D       | lermo.it        |                 |
+| Musei e Spazi   | e/oalResponsabi | o via fax tel.  |                 |
+| Espositivi      | le              | 091.9828927, o  |                 |
+|                 | del             | per e-mail:     |                 |
+|                 | Procedimento,   | museispaziespos |                 |
+|                 | così come       | itivi@comune.pa |                 |
+|                 | indicato nella  | lermo.it        |                 |
+|                 | sezione D       |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 5- Servizi di   | Al Capo Area    | Via delle       |                 |
 | Toponomastica   | e/oalResponsabi | Pergole, 74,    |                 |
@@ -81,15 +80,20 @@ Per gli altri servizi di questa Carta:
 |                 | sezione D       |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 6- Servizio     | Al Capo Area    | Telefonicamente | Il Servizio si  |
-| Spazi           | e/oalResponsabi | o via fax tel.  | attiverà alla   |
+| Spazi           | e/oalResponsabi | o via fax tel.  | attiveràalla    |
 | Etnoantropologi | le              | 091.7409000 -   | verifica e      |
 | ci              | del             | 091.6710641 o   | risoluzione di  |
-|                 | Procedimento,   | e-mail          | quanto          |
-|                 | così come       | all’indirizzo:  | suggerito o     |
-|                 | indicato nella  | spazietnoantrop | richiesto       |
-|                 | sezione D       | ologici@comune. |                 |
-|                 |                 | palermo.it      |                 |
+|                 | Procedimento,   | e-mail:         | quanto          |
+|                 | così come       | spazietnoantrop | suggerito o     |
+|                 | indicato nella  | ologici@comune. | richiesto       |
+|                 | sezione D       | palermo.it      |                 |
 +-----------------+-----------------+-----------------+-----------------+
+
+
+
+
+
+
 
 **c. Reclami riferiti agli impegni e standard di qualità**
 
