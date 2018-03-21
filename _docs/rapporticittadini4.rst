@@ -81,9 +81,9 @@ Per gli altri servizi di questa Carta:
 |                 | sezione D       |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | 6- Servizio     | Al Capo Area    | Telefonicamente | Il Servizio si  |
-| Spazi           | e/oalResponsabi | o via fax tel.  | attiveràalla    |
+| Spazi           | e/oalResponsabi | o via fax tel.  | attiverà alla   |
 | Etnoantropologi | le              | 091.7409000 -   | verifica e      |
-| c               | del             | 091.6710641 o   | risoluzione di  |
+| ci              | del             | 091.6710641 o   | risoluzione di  |
 |                 | Procedimento,   | e-mail          | quanto          |
 |                 | così come       | all’indirizzo:  | suggerito o     |
 |                 | indicato nella  | spazietnoantrop | richiesto       |
