@@ -27,8 +27,8 @@ Testo della Carta dei servizi
 
 .. toctree::
 
-   _docs/.......rst
-   _docs/.......rst
-   _docs/.......rst
-   _docs/.......rst
-   _docs/.......rst
+   _docs/cartaservizi1.rst
+   _docs/normeprincipi2.rst
+   _docs/presentazioneservizi3.rst
+   _docs/rapporticittadini4.rst
+   _docs/informazioniutili5.rst
