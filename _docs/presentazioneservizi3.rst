@@ -38,11 +38,17 @@ Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge 
    
 **A chi si rivolge** A  tutti  i  cittadiniitaliani,  stranieri,  residenti  e  non,  anziani,  studenti  di  ogni  ordine  e  grado,  associazioni culturali e turistiche, enti e amministrazioni pubbliche.  
    
-**Quali  sono  i  passi  per  usufruire  del  servizio - Modalità  di  accesso (fisica e multicanale) e requisiti per l’accesso** Per accedere al Servizio basta recarsi presso lasede dell’Archivio Storico, in Via Maqueda n. 157, nei giorni e negli orari meglio in seguito specificati o attraverso il link Libr@rsilibrarsi.comune.palermo.it
+**Quali  sono  i  passi  per  usufruire  del  servizio - Modalità  di  accesso (fisica e multicanale) e requisiti per l’accesso** 
+
+Per accedere al Servizio basta recarsi presso lasede dell’Archivio Storico, in Via Maqueda n. 157, nei giorni e negli orari meglio in seguito specificati o attraverso il link Libr@rsilibrarsi.comune.palermo.it
    
-**Organizzazione** L’Archivio  Storicooccupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico:Dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
+**Organizzazione** 
+
+L’Archivio  Storicooccupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico:Dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
    
-**Quanto costa il servizio** Il  servizio  è  completamente  gratuito,  fatta  eccezione  per  i  costi  determinati  dalle  eventuali  richieste  di riproduzioni o copie  che variano, come da prospetti presenti nella modulistica distinta per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
+**Quanto costa il servizio** 
+
+Il  servizio  è  completamente  gratuito,  fatta  eccezione  per  i  costi  determinati  dalle  eventuali  richieste  di riproduzioni o copie  che variano, come da prospetti presenti nella modulistica distinta per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
    
 **Modulistica propedeutica all’erogazione del servizio** La modulistica è prevista secondo il servizio richiesto:
 
@@ -85,15 +91,25 @@ Il  7  Maggio  2004,  a  seguito  di  un  protocollo  d'intesa  tra  il  Comune 
 
 A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tipo  di  pubblico,  indipendentemente  da  razza,  colore,  età,  orientamento  religioso  e  sessuale,  ad  associazioni  culturali  e  turistiche  enti  e  amministrazioni  pubbliche.
    
-**Quali sono i passi per usufruire del servizio - Modalità (fisica e multicanale) e requisiti per l’accesso** Per accedere al Servizio basta recarsi presso la sede della Biblioteca Comunale di Casa Professa, nei giorni e negliorari meglio di seguito specificati o effettuare l’accesso online attraverso il link Libr@rsilibrarsi.comune.palermo.it
+**Quali sono i passi per usufruire del servizio - Modalità (fisica e multicanale) e requisiti per l’accesso** 
+
+Per accedere al Servizio basta recarsi presso la sede della Biblioteca Comunale di Casa Professa, nei giorni e negliorari meglio di seguito specificati o effettuare l’accesso online attraverso il link Libr@rsilibrarsi.comune.palermo.it
    
-**Organizzazione** La  Biblioteca  Comunale  di  Casa  Professa  si  trova  in  Piazzetta  L.  Brunaccini  n.  2  a  Palermo – Tel. 091/7407949.
+**Organizzazione** 
+
+La  Biblioteca  Comunale  di  Casa  Professa  si  trova  in  Piazzetta  L.  Brunaccini  n.  2  a  Palermo – Tel. 091/7407949.
    
-**Giorni e Orari di apertura al pubblico** Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
+**Giorni e Orari di apertura al pubblico** 
+
+Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
    
-**Quanto costa il servizio** Il servizio è completamente gratuito, fatta eccezione per i costi determinati dalle eventuali richieste di copie cartacee o digitalizzate, come  di seguito specificati dai  prospetti presenti nella modulisticao per motivi di studio  o per scopi commerciali.
+**Quanto costa il servizio** 
+
+Il servizio è completamente gratuito, fatta eccezione per i costi determinati dalle eventuali richieste di copie cartacee o digitalizzate, come  di seguito specificati dai  prospetti presenti nella modulisticao per motivi di studio  o per scopi commerciali.
    
-**Modulistica propedeutica all’erogazione del servizio** E’ prevista una modulistica a seconda del servizio richiesto:
+**Modulistica propedeutica all’erogazione del servizio** 
+
+E’ prevista una modulistica a seconda del servizio richiesto:
 
 - per la consultazione/prestito di patrimonio bibliografico moderno: nessuna modulistica
 
@@ -103,7 +119,6 @@ A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tip
 
 - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <http://bit.ly/2FYqyM1>`_ o per `scopi commerciali <http://bit.ly/2Gel4QJ>`_.
     
-
 Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzione dei manoscritti e rari, si prega di consultare le seguenti linee guida: **Linee guida servizi al pubblico** e **Linee guida manoscritti e rari**. L’accesso ai servizi è vincolato alla registrazione presso qualsiasi Biblioteca Comunale. In tutte le Biblioteche decentrate sottoriportate è possibile effettuare:
    
 - Lettura, distribuzione, consultazione, prestito locale, prestito interbibliotecario di Patrimonio bibliografico moderno.
@@ -111,7 +126,9 @@ Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzi
 - Ricerche bibliografiche per utenti e per singoli eventi, reference e accesso Banche Dati.
    
 - Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili
-   
+
+|
+
 In particolare:
 
 |
@@ -125,13 +142,21 @@ Biblioteca decentrata di Borgo Nuovo, Largo Pozzillo, 7 Palermo
    
 **Quali  sono  i  passi  per  usufruire  del  servizio** Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti per l’accessoPer  accedere  al  Servizio  basta  recarsi  presso  la  sededella  biblioteca  nei  giorni  e  negli  orari  di  apertura  al  pubblico seguenti o effettuare l’accesso on line al Catalogo del Polo SBN tramite il sito Libr@rsi e App.
    
-**Organizzazione** La Biblioteca Borgo Nuovo è ubicata in Largo Pozzillo, n.7 a Palermo tel.091-222785 e 091-7408087  
+**Organizzazione** 
 
-**Giorni e Orari di apertura al pubblico** Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
+La Biblioteca Borgo Nuovo è ubicata in Largo Pozzillo, n.7 a Palermo tel.091-222785 e 091-7408087  
+
+**Giorni e Orari di apertura al pubblico** 
+
+Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
    
-**Quanto costa il servizio** Il servizio è completamente gratuito
+**Quanto costa il servizio** 
+
+Il servizio è completamente gratuito
    
-**Modulistica propedeutica all’erogazione del servizio** Nessuna
+**Modulistica propedeutica all’erogazione del servizio** 
+
+Nessuna
 
 |
 
