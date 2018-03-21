@@ -27,8 +27,8 @@ Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasp
 | 4- Servizio Musei e Spazi         | A) Galleria Arte Moderna - B)     |
 | Espositivi                        | Ecomuseo del Mare - C) Spazio ZAC |
 |                                   | (Cantieri Culturali Zisa) - D)    |
-|                                   | Sala Mostra c/o Palazzo Ziino E)  |
-|                                   | Gipsoteca                         |
+|                                   | Sala Mostra c/o Palazzo Ziino -   |
+|                                   | E) Gipsoteca                      |
 +-----------------------------------+-----------------------------------+
 | 5- Servizi di Toponomastica       | A) Rilascio Certificazioni        |
 |                                   | assegnazione di numerazione       |
