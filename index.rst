@@ -42,7 +42,6 @@ Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasp
 | Etnoatropologici                  | Tarallo                           |
 +-----------------------------------+-----------------------------------+
 
-|
 
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Informazioni ulteriori**                                                                                                    |
