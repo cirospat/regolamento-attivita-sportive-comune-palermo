@@ -83,3 +83,76 @@ Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Bibl
       
       - Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili.
    
+   **Servizio  Manoscritti  e Rari**
+      
+      - Distribuzione e consultazione, Prestito per Eventi espositivi di Patrimonio bibliografico antico (manoscritti, incunaboli, stampe ecc.).
+      
+      - Riproduzioni digitali. 
+      
+      - Ricerche bibliografiche per singoli utenti e per eventi, reference e accesso Banche Dati.
+      
+      - Consultazione on line dei Manoscritti tramite Teca Digitale.
+      
+**A chi si rivolge**
+   A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tipo  di  pubblico,  indipendentemente  da  razza,  colore,  età,  orientamento  religioso  e  sessuale,  ad  associazioni  culturali  e  turistiche  enti  e  amministrazioni  pubbliche.
+   
+**Quali sono i passi per usufruire del servizio - Modalità (fisica e multicanale) e requisiti per l’accesso**
+   Per accedere al Servizio basta recarsi presso la sede della Biblioteca Comunale di Casa Professa, nei giorni e negliorari     megliodi     seguito     specificati     o     effettuare     l’accesso     on     line     attraverso     il     link Libr@rsilibrarsi.comune.palermo.it
+   
+**Organizzazione**
+   La  Biblioteca  Comunale  di  Casa  Professa  si  trova  in  Piazzetta  L.  Brunaccini  n.  2  a  Palermo – Tel. 091/7407949.
+   
+**Giorni e Orari di apertura al pubblico**
+   Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
+   
+**Quanto costa il servizio**
+   Il servizio è completamente gratuito, fatta eccezione per i costi determinati dalle eventuali richieste di copie cartacee o digitalizzate, come  di seguito specificati dai  prospetti presenti nella modulisticao per motivi di studio  o per scopi commerciali.
+   
+**Modulistica propedeutica all’erogazione del servizio**
+   E’ prevista una modulistica a seconda del servizio richiesto:
+   
+   - per la consultazione/prestito di patrimonio bibliografico moderno: nessuna modulistica
+   
+   - per la consultazione di patrimonio bibliografico e documentale antico: nessuna modulistica  
+   
+   - per  la  riproduzione  digitale  di  patrimonio  bibliografico  e  documentale  antico,  è  prevista  una  modulistica per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
+   
+    - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
+    
+Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzione dei manoscritti e rari, si prega di consultare le seguenti linee guida: **Linee guida servizi al pubblico** e **Linee guida manoscritti e rari**.
+   
+L’accesso ai servizi è vincolato alla registrazione presso qualsiasi Biblioteca Comunale. In tutte le Biblioteche decentrate sottoriportate è possibile effettuare:
+   
+- Lettura, distribuzione, consultazione, prestito locale, prestito interbibliotecario di Patrimonio bibliografico moderno.
+
+- Ricerche bibliografiche per utenti e per singoli eventi, reference e accesso Banche Dati.
+   
+- Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili
+   
+In particolare:
+
+BIBLIOTECA decentrata di BORGO NUOVO - Largo Pozzillo, 7 Palermo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Finalità specifiche e Cosa offriamo**
+   La  Biblioteca,  ubicata  nel  quartiere  Borgo  Nuovo,  periferia  della  città,  si  propone,  oltre  che  con  le  sue  peculiari   attività   di   servizio   alla   cittadinanza,   come impulso nella   vita   socio-culturale   del   quartiere,   coinvolgendo i cittadini attivamente in iniziative e collaborazioni. Offre  ai  cittadini  la  possibilità  di  consultare  e  studiare  in  loco  qualsiasi  documento  in  “Sala  di  Studio”  promuovendo progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e per il suo ambiente, altamente scenografico, ospita spesso mostre ed esibizioni.
+
+**A chi si rivolge**
+   A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tipo  di  pubblico,  indipendentemente  da  razza,  colore, età, orientamento religioso e sessuale, ad associazioni culturali e turistiche.
+   
+**Quali  sono  i  passi  per  usufruire  del  servizio**
+   Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti per l’accessoPer  accedere  al  Servizio  basta  recarsi  presso  la  sededella  biblioteca  nei  giorni  e  negli  orari  di  apertura  al  pubblico seguenti o effettuare l’accesso on line al Catalogo del Polo SBN tramite il sito Libr@rsi e App.
+   
+**Organizzazione**
+   La Biblioteca Borgo Nuovo è ubicata in Largo Pozzillo, n.7 a Palermo tel.091-222785 e 091-7408087  
+
+**Giorni e Orari di apertura al pubblico**
+   Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
+   
+**Quanto costa il servizio**
+   Il servizio è completamente gratuito
+   
+**Modulistica propedeutica all’erogazione del servizio**
+   Nessuna
+
+
