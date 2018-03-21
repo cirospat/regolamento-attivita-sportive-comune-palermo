@@ -5,8 +5,7 @@ Presentazione dei Servizi dell’Area Cultura
 Finalità, Organizzazione, Destinatari e modalità di accesso dei servizi
 -------------------
 
-I  beni  culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo.
-Palermo  punta  oggi  a  definire  il  suo  ruolo di città d'arte e di luogo di cultura valorizzando il passato e le testimonianze storiche, da una parte, ma anche   guardando   al   futuro, volgendosi  ai  nuovi  sviluppi  dell'arte  contemporanea  e delle  ricerche multimediali sui beni culturali. 
+I  beni  culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo. Palermo  punta  oggi  a  definire  il  suo  ruolo di città d'arte e di luogo di cultura valorizzando il passato e le testimonianze storiche, da una parte, ma anche   guardando al futuro, rivolgendosi  ai  nuovi  sviluppi  dell'arte  contemporanea  e delle  ricerche multimediali sui beni culturali. 
 
 Le politiche dell'Amministrazione puntano oggi a definire strutture ed organizzazioni stabili per la gestione dei beni culturali nella convinzione che, su di esse, si possa costruire il futuro sviluppo della città anche sul piano economico. Un percorso che si identifica con l'attività di musei, biblioteche, archivi, spazi culturaliche sempre più hanno assunto un ruolo da protagonisti nella vita culturale, sociale ed economica della città. 
 
