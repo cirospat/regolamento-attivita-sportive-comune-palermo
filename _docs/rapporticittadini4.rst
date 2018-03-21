@@ -60,11 +60,9 @@ Per gli altri servizi di questa Carta:
 *Modulo di richiesta rimborsi*:   Nessuno.
 
 
-
 **e. Indagini di soddisfazione dell’utente**
 
-Ogni  anno  su  taluni  servizi  di  questa  Carta  individuati  dai  Capi  Area  e/o  indicati  nel  Piano  della  Qualità  dell’Ente, sarà  effettuata  almeno  una  rilevazione  per  verificare  il  gradimento  del  Servizio  presso  la  cittadinanza, tramite, indaginidi customersatisfaction.  Gli  esiti  delle  indagini  delle  Biblioteche  comunali  e  dell’Archivio  sono  consultabili  all’indirizzo  web  https://www.comune.palermo.it/amministrazione_trasparente.php?sel=22&asel=252.
-
+Ogni  anno  su  taluni  servizi  di  questa  Carta  individuati  dai  Capi  Area  e/o  indicati  nel  Piano  della  Qualità  dell’Ente, sarà  effettuata  almeno  una  rilevazione  per  verificare  il  gradimento  del  Servizio  presso  la  cittadinanza, tramite, indaginidi customersatisfaction.  Gli  esiti  delle  indagini  delle  Biblioteche  comunali  e  dell’Archivio  sono  consultabili  all’`indirizzo web <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=22&asel=252>`_.
 
 
 **f. Utilizzo di tutte le informazioni**
