@@ -6,12 +6,15 @@ Carta dei servizi dell'Area Cultura del comune di Palermo
 
 Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_04082017181659.pdf>`_.
 
+|
 
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Informazioni ulteriori**                                                                                                    |
 +-------------------------------------------------------------------------------------------------------------------------------+
-| - `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_     |
+| `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_     |
 +-------------------------------------------------------------------------------------------------------------------------------+
+
+|
 
 .. figure:: img/ccbysa.png
 
