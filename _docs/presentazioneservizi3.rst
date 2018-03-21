@@ -23,7 +23,7 @@ I beni culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo.
 Servizio Sistema Bibliotecario e Archivio Cittadino
 ------------------------------
 
-La  biblioteca  pubblica,  via  di  accesso  locale  alla  conoscenza,  costituisce  una  condizione  essenziale  per  l'apprendimento permanente, l'indipendenza nelle decisioni, lo sviluppo culturale dell'individuo e dei gruppi sociali. (`Manifesto UNESCO per le biblioteche pubbliche <http://digilander.libero.it/biblionogara/unescoita.htm>)`_.
+La  biblioteca  pubblica,  via  di  accesso  locale  alla  conoscenza,  costituisce  una  condizione  essenziale  per  l'apprendimento permanente, l'indipendenza nelle decisioni, lo sviluppo culturale dell'individuo e dei gruppi sociali. (`Manifesto UNESCO per le biblioteche pubbliche <http://digilander.libero.it/biblionogara/unescoita.htm>`_).
 
 Il Servizio consente la consultazione e la fruizione del Patrimonio documentario e bibliografico posseduto dal  Sistema  Bibliotecario  (Biblioteca  Comunale  e  Biblioteche  decentrate)  e  dall’Archivio  Storico.  Fornisce  inoltre i servizi afferenti al Polo del Servizio Bibliotecario Nazionale.
 
