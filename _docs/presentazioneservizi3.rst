@@ -42,18 +42,6 @@ I beni culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo.
 | Etnoatropologici                  | Tarallo                           |
 +-----------------------------------+-----------------------------------+
 
-   **1) Servizio Sistema Bibliotecario e Archivio Cittadino**
-
-   **2) Cantieri Culturali della Zisa**
-
-   **3) Complesso Monumentale S.Maria dello Spasimo** 
-
-   **4) Servizio Musei e Spazi Espositivi** 
-
-   **5) Servizi di Toponomastica**
-
-   **6) Servizio Spazi Etnoantropologici**
-
 |
 
 Servizio Sistema Bibliotecario e Archivio Cittadino
