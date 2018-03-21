@@ -69,7 +69,8 @@ La modulistica è prevista secondo il servizio richiesto:
 
 |
 
-## Sistema Bibliotecario
+**Sistema Bibliotecario**
+
 
 Biblioteca comunale di Casa Professa, Piazzetta L. Brunaccini n. 2 Palermo
 ~~~~~~~~~~~~~~~~~~~~
@@ -133,6 +134,8 @@ E’ prevista una modulistica a seconda del servizio richiesto:
 
 - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <http://bit.ly/2FYqyM1>`_ o per `scopi commerciali <http://bit.ly/2Gel4QJ>`_.
     
+
+
 Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzione dei manoscritti e rari, si prega di consultare le seguenti linee guida: **Linee guida servizi al pubblico** e **Linee guida manoscritti e rari**.
    
 L’accesso ai servizi è vincolato alla registrazione presso qualsiasi Biblioteca Comunale. In tutte le Biblioteche decentrate sottoriportate è possibile effettuare:
@@ -145,8 +148,10 @@ L’accesso ai servizi è vincolato alla registrazione presso qualsiasi Bibliote
    
 In particolare:
 
-BIBLIOTECA decentrata di BORGO NUOVO - Largo Pozzillo, 7 Palermo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|
+
+Biblioteca decentrata di Borgo Nuovo, Largo Pozzillo, 7 Palermo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
 
