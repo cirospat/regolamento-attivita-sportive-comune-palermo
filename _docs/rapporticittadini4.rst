@@ -51,7 +51,7 @@ Per gli altri servizi di questa Carta:
 
 **d. Rimborsi: (attivo solo per i servizi 1: Archivi e Biblioteche riguardanti copie cartacee e digitalizzate)** 
 
-*A chirivolgersi*: Capo Area o Responsabile del Procedimento, così come indicato nella sezione D.
+*A chi rivolgersi*: Capo Area o Responsabile del Procedimento, così come indicato nella sezione D.
 
 *Come farli pervenire*: Via email, o cartaceo agli indirizzi riportati nella sez. D.
 
