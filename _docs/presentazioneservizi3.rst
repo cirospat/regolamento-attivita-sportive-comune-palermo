@@ -240,7 +240,7 @@ Nessuna
 
 |
 
-Biblioteca multimediale "Villa Trabia", ViaAntonino Salinas, 3, Palermo
+Biblioteca multimediale "Villa Trabia", Via Antonino Salinas 3, Palermo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
@@ -405,7 +405,7 @@ Nessuna
 
 |
 
-Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa -  Sala Mostre e Gipsoteca c/o Palazzo Ziino Via dante  n.53).
+Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa - Sala Mostre e Gipsoteca c/o Palazzo Ziino Via Dante  n.53).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al link sotto elencato si trova la carta del servizio musei e spazi espositivi: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_18112016100345.pdf5. 
@@ -487,7 +487,7 @@ Il servizio ha un costo di € 2,87 per ogni numero civico assegnato da versare 
 
 |
 
-Rilascio  di  Attestazione  dell’avvenuto  cambio  di  denominazione  di  un’area  di  circolazione  o  di  un  numero civico
+Rilascio di Attestazione dell’avvenuto cambio di denominazione di un’area di circolazione o di un numero civico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
@@ -518,7 +518,7 @@ il servizio è gratuito
 
 **Servizio Spazi Etnoantropologici**
 
-Museo etnografico Siciliano "Giuseppe Pitrè"
+Museo Etnografico Siciliano "Giuseppe Pitrè"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
@@ -551,7 +551,7 @@ Nessuna
 
 |
 
-Palazzo tarallo - sede della  Biblioteca etnografica siciliana "Giuseppe Pitrè"
+Palazzo Tarallo - sede della Biblioteca etnografica siciliana "Giuseppe Pitrè"
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
