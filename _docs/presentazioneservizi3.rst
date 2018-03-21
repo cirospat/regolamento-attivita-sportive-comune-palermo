@@ -432,7 +432,7 @@ Nessuna
 Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa - Sala Mostre e Gipsoteca c/o Palazzo Ziino Via Dante  n.53).
 -----------------------------------------------------
 
-Al link sotto elencato si trova la carta del servizio musei e spazi espositivi: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_18112016100345.pdf5. 
+Al link sotto elencato si trova la carta del servizio musei e spazi espositivi: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_18112016100345.pdf. 
 
 |
 
@@ -441,7 +441,7 @@ Servizi di Toponomastica. Presentazione del Servizio Toponomastica.
 
 **Finalità, missione, caratteristiche, attività e organizzazione del servizio**
 
-La Toponomastica cura gli aspetti connessi alla intitolazione delle vie cittadine e al rilascio di certificazioni afferenti  la  numerazione  civica. L’Ufficio  di  Toponomastica  si  occupa  del  rilascio  di  certificazioni  di  assegnazione  di  numerazione  civica,  di  attestazioni  di  esatta  numerazione  civica  e  dell’intitolazione  e/o  variazione di titolo di una via.Esso si rivolge ai cittadini residenti o proprietari di immobili. Per  usufruire  dei  servizi  della  Toponomastica  il  cittadino  fa  richiesta  attraverso  apposita  modulistica  pubblicata  nel  Portale  servizi  online  Sezione  Modulistica  online  Area  Tematica  Cultura  del  sito  web  del  Comune  di  Palermo  da  inviare  online  all’indirizzo  di  posta  elettronica  m.salamone@comune.palermo.it oppure al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74- Palermo 90134. Il servizio ha un costo di € 2,87 per ogni numero civico accertato da versare sul conto n. 218100 – Tesoreria Comunale BNL, causale “diritti d’accertamento – capitolo 2860”.
+La Toponomastica cura gli aspetti connessi alla intitolazione delle vie cittadine e al rilascio di certificazioni afferenti  la  numerazione  civica. L’Ufficio  di  Toponomastica  si  occupa  del  rilascio  di  certificazioni  di  assegnazione  di  numerazione  civica,  di  attestazioni  di  esatta  numerazione  civica  e  dell’intitolazione  e/o  variazione di titolo di una via.Esso si rivolge ai cittadini residenti o proprietari di immobili. Per  usufruire  dei  servizi  della  Toponomastica  il  cittadino  fa  richiesta  attraverso  apposita  modulistica  pubblicata  nel  Portale  servizi  online  Sezione  Modulistica  online  Area  Tematica  Cultura  del  sito  web  del  Comune  di  Palermo  da  inviare  online  all’indirizzo  di  posta  elettronica  m.salamone@comune.palermo.it oppure al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74 - Palermo 90134. Il servizio ha un costo di € 2,87 per ogni numero civico accertato da versare sul conto n. 218100 – Tesoreria Comunale BNL, causale “diritti d’accertamento – capitolo 2860”.
 
 |
 
@@ -458,7 +458,7 @@ Ai cittadini residenti o proprietari di immobili.
 
 **Quali sono i passi per usufruire del servizio:  Modalità  di  accesso (fisica e multicanale) e requisiti per l’accesso**
 
-Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74 - 90134 Palermo.  La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta
+Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74, 90134 Palermo. La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta
 
 **Organizzazione**
 
@@ -491,7 +491,7 @@ Ai cittadini residenti o proprietari di immobili**
 
 **Quali  sono  i  passi  per  usufruire  del  servizio: Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti  per  l’accesso**
 
-Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74 - 90134 Palermo.  La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta.
+Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74, 90134 Palermo.  La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta.
 
 **Organizzazione**
 
@@ -503,7 +503,7 @@ Il pubblico siriceve: nei giorni dispari: dalle h.9:00 alle h.12:30; il mercoled
 
 **Quanto costa il servizio**
 
-Il servizio ha un costo di € 2,87 per ogni numero civico assegnato da versare sul conto n.218100 – Tesoreria Comunale BNL.
+Il servizio ha un costo di € 2,87 per ogni numero civico assegnato da versare sul conto n. 218100 – Tesoreria Comunale BNL.
 
 **Modulistica propedeutica all’erogazione del servizio**
 
@@ -524,7 +524,7 @@ ai cittadini residenti o proprietari di immobili.
 
 **Quali  sono  i  passi  per  usufruire  del  servizio:  Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti  per  l’accesso**
 
-Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74 - 90134 Palermo. La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta.
+Per usufruire di tale servizio il cittadino fa richiesta attraverso l’apposita modulistica, debitamente compilata, da inviare online all’indirizzo di posta elettronica indicato nella tabella 2, oppure da trasmettere al seguente indirizzo: Ufficio Toponomastica – Via delle Pergole n.74, 90134 Palermo. La certificazione sarà rilasciata all’utente entro 30 giorni dalla richiesta.
 
 **Organizzazione**
 
@@ -592,7 +592,7 @@ Per accedere al Servizio basta recarsi presso la sede della biblioteca nei giorn
 
 **Organizzazione**
 
-La  Biblioteca  si  trova  in  via  delle  Pergole,  74  presso  Palazzo  Tarallo,  nel  cuore  del  mercato  “Ballarò”  -  tel 091/7409181.
+La  Biblioteca  si  trova  in  via  delle  Pergole,  74  presso  Palazzo  Tarallo,  nel  cuore  del  mercato  “Ballarò”, tel 091/7409181.
 
 **Giorni e Orari di apertura al pubblico**
 
