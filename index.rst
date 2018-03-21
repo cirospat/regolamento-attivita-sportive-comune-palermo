@@ -8,6 +8,44 @@ Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasp
 
 |
 
++-----------------------------------+-----------------------------------+
+| **Servizi**                       | **Spazi connessi**                |
++===================================+===================================+
+| 1- Servizio Sistema Bibliotecario | A) Archivio storico comunale - B) |
+| e Archivio Cittadino              | Sistema bibliotecario cittadino   |
+|                                   | (Biblioteca comunale di Casa      |
+|                                   | Professa e Biblioteche            |
+|                                   | decentrate)                       |
++-----------------------------------+-----------------------------------+
+| 2- Cantieri Culturali della Zisa  | A) Sala Vittorio De Seta - B)     |
+|                                   | Sala Tre Navate - C) Sala         |
+|                                   | Perriera - D) Botteghe Artigiane  |
++-----------------------------------+-----------------------------------+
+| 3- Complesso Monumentale Santa    |                                   |
+| Maria dello Spasimo               |                                   |
++-----------------------------------+-----------------------------------+
+| 4- Servizio Musei e Spazi         | A) Galleria Arte Moderna - B)     |
+| Espositivi                        | Ecomuseo del Mare - C) Spazio ZAC |
+|                                   | (Cantieri Culturali Zisa) - D)    |
+|                                   | Sala Mostra c/o Palazzo Ziino E)  |
+|                                   | Gipsoteca                         |
++-----------------------------------+-----------------------------------+
+| 5- Servizi di Toponomastica       | A) Rilascio Certificazioni        |
+|                                   | assegnazione di numerazione       |
+|                                   | civica - B) Rilascio Attestazioni |
+|                                   | esatta numerazione civica - C)    |
+|                                   | Rilascio di Attestazione          |
+|                                   | dell’avvenuto cambio di           |
+|                                   | denominazione di un’area di       |
+|                                   | circolazione o di un numero       |
+|                                   | civico                            |
++-----------------------------------+-----------------------------------+
+| 6- Servizio Spazi                 | A) Museo Pitrè - B) Palazzo       |
+| Etnoatropologici                  | Tarallo                           |
++-----------------------------------+-----------------------------------+
+
+|
+
 +-------------------------------------------------------------------------------------------------------------------------------+
 | **Informazioni ulteriori**                                                                                                    |
 +-------------------------------------------------------------------------------------------------------------------------------+
