@@ -10,7 +10,7 @@ Norme e principi dell’Area Cultura
 La Carta dei Servizi dell’Area Cultura, si ispira ai seguenti principi: 
 
 **Uguaglianza**. 
-| E’  garantito  il  medesimo  servizio  a  tutti  i  cittadini-utenti  indipendentementeda  genere,  provenienza  nazionale,  opzioni  sessuali  oaffettive,  lingua,  religione,  cultura,  opinioni  politiche,  condizionipsico-fisiche  e  socio-economiche.  Sono  garantite,  inoltre,  le  stesseopportunità  di  trattamento  per  ogni  tipologia  di  cittadiniutenti.
+   E’  garantito  il  medesimo  servizio  a  tutti  i  cittadini-utenti  indipendentementeda  genere,  provenienza  nazionale,  opzioni  sessuali  oaffettive,  lingua,  religione,  cultura,  opinioni  politiche,  condizionipsico-fisiche  e  socio-economiche.  Sono  garantite,  inoltre,  le  stesseopportunità  di  trattamento  per  ogni  tipologia  di  cittadiniutenti.
 
 **Imparzialità**. 
 Il  servizio  viene  prestato  con  obiettività,  equità,  giustizia  e  cortesianei  confronti  di  tutti  coloro  che  ne  usufruiscono  assicurando  lacostante  e  completa  conformità  alle  leggi  e  ai  regolamenti  in  ognifase  di  erogazione  delle  prestazioni  e  eliminando  ogni  possibile  forma  di  discriminazione  che  possa  escludere  o  limitare l’accesso al servizio a chi ne abbia diritto. 
