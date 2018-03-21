@@ -1,9 +1,9 @@
-Regolamento per il commercio su aree pubbliche del Comune di Palermo
+Carta dei Servizi dell’Area Cultura del Comune di Palermo
 ==================================================
 
-**Fonte**: https://www.comune.palermo.it/js/server/normative/_24122012094346.pdf
+**Fonte**: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_04082017181659.pdf
 
-Questo repository contiene la documentazione relativa al [Regolamento per il commercio su aree pubbliche del Comune di Palermo](http://regolamento-commercio-aree-pubbliche-comune-palermo.readthedocs.io). 
+Questo repository contiene la documentazione relativa alla [Carta dei Servizi dell’Area Cultura del Comune di Palermo](http://carta-servizi-area-cultura-comune-palermo.readthedocs.io). 
 
 
 Link
