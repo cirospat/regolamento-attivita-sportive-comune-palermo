@@ -47,7 +47,7 @@ Per gli altri servizi di questa Carta:
 
 *A chirivolgersi*: Capo Area o Responsabile del Procedimento, così come indicato nella sezione D.
 
-*Come farli pervenire* Via email, o cartaceo agli indirizzi riportati nella sez. D.
+*Come farli pervenire*: Via email, o cartaceo agli indirizzi riportati nella sez. D.
 
 *Cosa succede*: Invio e-mail o istanza cartacea presso gli Uffici di pertinenza.
 
