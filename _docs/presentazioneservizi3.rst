@@ -5,13 +5,7 @@ Presentazione dei Servizi dell’Area Cultura
 Finalità, Organizzazione, Destinatari e modalità di accesso dei servizi
 -------------------
 
-I  beni  culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo. Palermo  punta  oggi  a  definire  il  suo  ruolo di città d'arte e di luogo di cultura valorizzando il passato e le testimonianze storiche, da una parte, ma anche   guardando al futuro, rivolgendosi  ai  nuovi  sviluppi  dell'arte  contemporanea  e delle  ricerche multimediali sui beni culturali. 
-
-Le politiche dell'Amministrazione puntano oggi a definire strutture ed organizzazioni stabili per la gestione dei beni culturali nella convinzione che, su di esse, si possa costruire il futuro sviluppo della città anche sul piano economico. Un percorso che si identifica con l'attività di musei, biblioteche, archivi, spazi culturaliche sempre più hanno assunto un ruolo da protagonisti nella vita culturale, sociale ed economica della città. 
-
-E' questo il percorso dell'Assessorato  alla  Cultura  che  oggi  definisce  la  sfera  delle  sue  competenze  intorno  alle  politiche  delle  istituzioni  ed  alle  grandi  strategie  di  sviluppo  del  sistema  culturale  cittadino  in  rapporto  alle  politiche  internazionali sui beni culturali. 
-
-Una  grande  scommessa  che  punta  alla  creazione  di  un  sistema  che  si  ponga  come  obiettivo,  da  una  parte,  quello  della  conservazione  e, dall'altro,  quello  della  valorizzazione  e  fruizione  dei  beni  culturali attraverso i seguenti servizi:
+I beni culturali  sono  oggi  un  importante  fattore  strategico  di  sviluppo.  Palermo punta  oggi  a  definire  il  suo  ruolo di città d'arte e di luogo di cultura valorizzando il passato e le testimonianze storiche, da una parte, ma anche   guardando al futuro, rivolgendosi  ai  nuovi  sviluppi  dell'arte  contemporanea  e delle  ricerche multimediali sui beni culturali. Le politiche dell'Amministrazione puntano oggi a definire strutture ed organizzazioni stabili per la gestione dei beni culturali nella convinzione che, su di esse, si possa costruire il futuro sviluppo della città anche sul piano economico. Un percorso che si identifica con l'attività di musei, biblioteche, archivi, spazi culturaliche sempre più hanno assunto un ruolo da protagonisti nella vita culturale, sociale ed economica della città. E' questo il percorso dell’Assessorato alla  Cultura  che  oggi  definisce  la  sfera  delle  sue  competenze  intorno  alle  politiche  delle  istituzioni  ed  alle  grandi  strategie  di  sviluppo  del  sistema  culturale  cittadino  in  rapporto  alle  politiche  internazionali sui beni culturali. Una  grande  scommessa  che  punta  alla  creazione  di  un  sistema  che  si  ponga  come  obiettivo,  da  una  parte,  quello  della  conservazione  e, dall'altro,  quello  della  valorizzazione  e  fruizione  dei  beni  culturali attraverso i seguenti servizi:
 
 1) Servizio Sistema Bibliotecario e Archivio Cittadino
 
@@ -39,9 +33,7 @@ Il Servizio consente la consultazione e la fruizione del Patrimonio documentario
 Archivio Storico, Via Maqueda n. 157, Palermo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge  la  grandiosa  sala  progettata  da  Giuseppe  Damiani  Almeyda,  oggi  cuore  della  prestigiosa  Istituzione  riaperta  al  pubblico,  dopo  unlungo restauro del complesso monumentale. Al  suo  interno  è  conservato  un  vero  e  proprio  patrimonio  della  città,  con  importanti  documenti  di  vita  politica,  sette  secoli  di  storia  cittadina,  che  vanno  dalla  fine  del  Duecento  alla  metà  del  Novecento.  
-
-Uno “scrigno della memoria” cui potere attingere per illuminare e capire la Palermo di ieri e quella di oggi. L’attigua sala rettangolare, intitolata al primo direttore dell’archivio, Fedele Pollaci Nuccio, è anche chiamata “Sala  delle  Finanze”,  perché  conserva  fondi  di  dazi  e  gabelle:  essa,  assieme  alla  Sala  dei  Lucernari,  che  conserva  invece  importanti  documenti  civici,  costituiva  la  zona  del  refettorio  e  dei  dormitori  dell’ex  convento.
+Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge  la  grandiosa  sala  progettata  da  Giuseppe  Damiani  Almeyda,  oggi  cuore  della  prestigiosa  Istituzione  riaperta  al  pubblico,  dopo  unlungo restauro del complesso monumentale. Al  suo  interno  è  conservato  un  vero  e  proprio  patrimonio  della  città,  con  importanti  documenti  di  vita  politica,  sette  secoli  di  storia  cittadina,  che  vanno  dalla  fine  del  Duecento  alla  metà  del  Novecento.  Uno “scrigno della memoria” cui potere attingere per illuminare e capire la Palermo di ieri e quella di oggi. L’attigua sala rettangolare, intitolata al primo direttore dell’archivio, Fedele Pollaci Nuccio, è anche chiamata “Sala  delle  Finanze”,  perché  conserva  fondi  di  dazi  e  gabelle:  essa,  assieme  alla  Sala  dei  Lucernari,  che  conserva  invece  importanti  documenti  civici,  costituiva  la  zona  del  refettorio  e  dei  dormitori  dell’ex  convento.
 
 Di eccezionale valore storico-documentario è il **Tabulario**, una raccolta di pergamene che va dai primi del ‘300 alla metà dell’800, che conserva tra l’altro i Diplomi o Privilegi della città.
 
@@ -49,7 +41,7 @@ L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiaman
 
 **Finalità specifiche e Cosa offriamo**
  
- L’Archivio, oltre a conservare le memorie di Palermo, offre ai cittadini la possibilità di consultare e studiare in loco qualsiasi documento in “Sala di Studio”. Promuove progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e, per il suo ambiente altamente scenografico, ospita spesso mostre ed esibizioni. Altri  servizi  offerti  riguardano  la  distribuzione  e  consultazione  di  documenti;  la  possibilità  di  riproduzioni digitali, nonché diricerche archivistiche per singoli utenti e per eventi. 
+L’Archivio, oltre a conservare le memorie di Palermo, offre ai cittadini la possibilità di consultare e studiare in loco qualsiasi documento in “Sala di Studio”. Promuove progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e, per il suo ambiente altamente scenografico, ospita spesso mostre ed esibizioni. Altri  servizi  offerti  riguardano  la  distribuzione  e  consultazione  di  documenti;  la  possibilità  di  riproduzioni digitali, nonché diricerche archivistiche per singoli utenti e per eventi. 
    
 **A chi si rivolge**
 
