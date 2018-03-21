@@ -34,5 +34,32 @@ Il Servizio consente la consultazione e la fruizione del Patrimonio documentario
 Archivio Storico, Via Maqueda n. 157, Palermo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge  la  grandiosa  sala  progettata  da  Giuseppe  Damiani  Almeyda,  oggi  cuore  della  prestigiosa  Istituzione  riaperta  al  pubblico,  dopo  unlungo restauro del complesso monumentale. Al  suo  interno  è  conservato  un  vero  e  proprio  patrimonio  della  città,  con  importanti  documenti  di  vita  politica,  sette  secoli  di  storia  cittadina,  che  vanno  dalla  fine  del  Duecento  alla  metà  del  Novecento.  Uno “scrigno della memoria” cui potere attingere per illuminare e capire la Palermo di ieri e quella di oggi. L’attigua sala rettangolare, intitolata al primo direttore dell’archivio, Fedele Pollaci Nuccio, è anche chiamata “Sala  delle  Finanze”,  perché  conserva  fondi  di  dazi  e  gabelle:  essa,  assieme  alla  Sala  dei  Lucernari,  che  conserva  invece  importanti  documenti  civici,  costituiva  la  zona  del  refettorio  e  dei  dormitori  dell’ex  convento.
+
+Di eccezionale valore storico-documentario è il **Tabulario**, una raccolta di pergamene che va dai primi del ‘300 alla metà dell’800, che conserva tra l’altro i Diplomi o Privilegi della città.
+
+L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiamano  un  pubblico  sempre  più  numeroso.  All'interno  è  allocata  una  sala  di  consultazione  dove,  con  l'ausilio  del  personale  specializzato,  è  possibile  effettuare ricerche archivistiche. 
+
+**Finalità specifiche e Cosa offriamo**
+   L’Archivio, oltre a conservare le memorie di Palermo, offre ai cittadini la possibilità di consultare e studiare in loco qualsiasi documento in “Sala di Studio”. Promuove progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e, per il suo ambiente altamente scenografico, ospita spesso mostre ed esibizioni. Altri  servizi  offerti  riguardano  la  distribuzione  e  consultazione  di  documenti;  la  possibilità  di  riproduzioni digitali, nonché diricerche archivistiche per singoli utenti e per eventi. 
+   
+**A chi si rivolge**
+   A  tutti  i  cittadiniitaliani,  stranieri,  residenti  e  non,  anziani,  studenti  di  ogni  ordine  e  grado,  associazioni culturali e turistiche, enti e amministrazioni pubbliche.  
+   
+**Quali  sono  i  passi  per  usufruire  del  servizio - Modalità  di  accesso (fisica e multicanale) e requisiti per l’accesso**
+   Per accedere al Servizio basta recarsi presso lasede dell’Archivio Storico, in Via Maqueda n. 157, nei giorni e negli orari meglio in seguito specificati o attraverso il link Libr@rsilibrarsi.comune.palermo.it
+   
+**Organizzazione**
+   L’Archivio  Storicooccupa  i  locali  dell’ex  convento  agostiniano  di  S.  Nicolò  da  Tolentino  sito  in  Via  Maqueda 157 – Tel. 091/7408762Giorni e Orari di apertura al pubblico:Dal lunedì al venerdì dalle 9.00 alle 13.00 - Mercoledì anche dalle 15.30 alle 17.30
+   
+**Quanto costa il servizio**
+   Il  servizio  è  completamente  gratuito,  fatta  eccezione  per  i  costi  determinati  dalle  eventuali  richieste  di riproduzioni o copie  che variano, come da prospetti presenti nella modulistica distinta per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf> `_.
+   
+**Modulistica propedeutica all’erogazione del servizio**
+   La modulistica è prevista secondo il servizio richiesto:
+   
+   - per la consultazione (gratuita): `modulistica <http://librarsi.comune.palermo.it/export/sites/librarsi/.content/images/modulo_consultazione2.doc>`_
+   
+   - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf> `_.
 
 
