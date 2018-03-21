@@ -1,6 +1,7 @@
 Presentazione dei Servizi dell’Area Cultura
 ================
 
+
 Finalità, Organizzazione, Destinatari e modalità di accesso dei servizi
 -------------------
 
@@ -32,7 +33,7 @@ Il Servizio consente la consultazione e la fruizione del Patrimonio documentario
 |
 
 Archivio Storico, Via Maqueda n. 157, Palermo
-~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge  la  grandiosa  sala  progettata  da  Giuseppe  Damiani  Almeyda,  oggi  cuore  della  prestigiosa  Istituzione  riaperta  al  pubblico,  dopo  unlungo restauro del complesso monumentale. Al  suo  interno  è  conservato  un  vero  e  proprio  patrimonio  della  città,  con  importanti  documenti  di  vita  politica,  sette  secoli  di  storia  cittadina,  che  vanno  dalla  fine  del  Duecento  alla  metà  del  Novecento.  Uno “scrigno della memoria” cui potere attingere per illuminare e capire la Palermo di ieri e quella di oggi. L’attigua sala rettangolare, intitolata al primo direttore dell’archivio, Fedele Pollaci Nuccio, è anche chiamata “Sala  delle  Finanze”,  perché  conserva  fondi  di  dazi  e  gabelle:  essa,  assieme  alla  Sala  dei  Lucernari,  che  conserva  invece  importanti  documenti  civici,  costituiva  la  zona  del  refettorio  e  dei  dormitori  dell’ex  convento.
 
