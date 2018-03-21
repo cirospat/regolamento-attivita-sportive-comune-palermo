@@ -54,7 +54,6 @@ Nel  1866  nell'ex  convento  agostiniano di  San  Nicolò  da  Tolentino,sorge 
 
 **Sistema Bibliotecario**
 
-
 Biblioteca comunale di Casa Professa, Piazzetta L. Brunaccini n. 2 Palermo
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -137,7 +136,7 @@ Biblioteca decentrata di Borgo Nuovo, Largo Pozzillo, 7 Palermo
 |
 
  Biblioteca di Brancaccio, Via S. Ciro, 19 - Palermo
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo** La sezione territoriale di Brancaccio vuole essere una Biblioteca “Amica” che accoglie tutti, impegnandosi a soddisfare con efficienza le esigenze dell’utenza e, in particolare si propone, oltre che con le sue peculiari attività  di  servizio  alla  cittadinanza,  come  volano  nella  vita  socio-culturale  del  quartiere,  coinvolgendo  i  cittadini attivamente in iniziative e collaborazioni.
    
