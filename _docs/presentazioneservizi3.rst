@@ -1,4 +1,4 @@
-Presentazione dei Servizidell’Area Cultura
+Presentazione dei Servizi dell’Area Cultura
 ================
 
 Finalità, Organizzazione, Destinatari e modalità di accesso dei servizi
@@ -9,17 +9,17 @@ Palermo  punta  oggi  a  definire  il  suo  ruolo di città d'arte e di luogo di
 
 Una  grande  scommessa  che  punta  alla  creazione  di  un  sistema  che  si  ponga  come  obiettivo,  da  una  parte,  quello  della  conservazione  e,  dall'altro,  quello  della  valorizzazione  e  fruizione  dei  beni  culturali attraverso i seguenti servizi:
 
-**1) Servizio Sistema Bibliotecario e Archivio Cittadino**
+1) Servizio Sistema Bibliotecario e Archivio Cittadino
 
-**2) Cantieri Culturali della Zisa**
+2) Cantieri Culturali della Zisa
 
-**3) Complesso Monumentale S.Maria dello Spasimo** 
+3) Complesso Monumentale S.Maria dello Spasimo 
 
-**4) Servizio Musei e Spazi Espositivi** 
+4) Servizio Musei e Spazi Espositivi 
 
-**5) Servizi di Toponomastica**
+5) Servizi di Toponomastica
 
-**6) Servizio Spazi Etnoantropologici**
+6) Servizio Spazi Etnoantropologici
 
 |
 
