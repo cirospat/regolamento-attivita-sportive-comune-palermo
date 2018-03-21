@@ -1,6 +1,6 @@
-==================================
+==========================================
 Presentazione dei Servizidell’Area Cultura
-==================================
+==========================================
 
 Finalità, Organizzazione, Destinatari e modalità di accesso dei servizi
 ------------------------------------------------------------------------
@@ -30,6 +30,7 @@ Servizio Sistema Bibliotecario e Archivio Cittadino
 La  biblioteca  pubblica,  via  di  accesso  locale  alla  conoscenza,  costituisce  una  condizione  essenziale  per  l'apprendimento permanente, l'indipendenza nelle decisioni, lo sviluppo culturale dell'individuo e dei gruppi sociali. (`Manifesto UNESCO per le biblioteche pubbliche <http://digilander.libero.it/biblionogara/unescoita.htm>)`_.
 Il Servizio consente la consultazione e la fruizione del Patrimonio documentario e bibliografico posseduto dal  Sistema  Bibliotecario  (Biblioteca  Comunale  e  Biblioteche  decentrate)  e  dall’Archivio  Storico.  Fornisce  inoltre i servizi afferenti al Polo del Servizio Bibliotecario Nazionale.
 
+|
 
 Archivio Storico, Via Maqueda n. 157, Palermo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,7 +137,7 @@ BIBLIOTECA decentrata di BORGO NUOVO - Largo Pozzillo, 7 Palermo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Finalità specifiche e Cosa offriamo**
-   La  Biblioteca,  ubicata  nel  quartiere  Borgo  Nuovo,  periferia  della  città,  si  propone,  oltre  che  con  le  sue  peculiari   attività   di   servizio   alla   cittadinanza,   come impulso nella   vita   socio-culturale   del   quartiere,   coinvolgendo i cittadini attivamente in iniziative e collaborazioni. Offre  ai  cittadini  la  possibilità  di  consultare  e  studiare  in  loco  qualsiasi  documento  in  “Sala  di  Studio”  promuovendo progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e per il suo ambiente, altamente scenografico, ospita spesso mostre ed esibizioni.
+   La  Biblioteca,  ubicata  nel  quartiere  Borgo  Nuovo,  periferia  della  città,  si  propone,  oltre  che  con  le  sue  peculiari  attività   di   servizio   alla   cittadinanza,   come impulso nella   vita   socio-culturale   del   quartiere,   coinvolgendo i cittadini attivamente in iniziative e collaborazioni. Offre  ai  cittadini  la  possibilità  di  consultare  e  studiare  in  loco  qualsiasi  documento  in  “Sala  di  Studio”  promuovendo progetti per la valorizzazione e la diffusione della conoscenza del proprio patrimonio e per il suo ambiente, altamente scenografico, ospita spesso mostre ed esibizioni.
 
 **A chi si rivolge**
    A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tipo  di  pubblico,  indipendentemente  da  razza,  colore, età, orientamento religioso e sessuale, ad associazioni culturali e turistiche.
@@ -156,6 +157,7 @@ BIBLIOTECA decentrata di BORGO NUOVO - Largo Pozzillo, 7 Palermo
 **Modulistica propedeutica all’erogazione del servizio**
    Nessuna
 
+|
 
  Biblioteca di Brancaccio, Via S. Ciro, 19 - Palermo
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
