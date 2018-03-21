@@ -58,9 +58,7 @@ L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiaman
    
 **Modulistica propedeutica all’erogazione del servizio**
    La modulistica è prevista secondo il servizio richiesto:
-   
    - per la consultazione (gratuita): `modulistica <http://librarsi.comune.palermo.it/export/sites/librarsi/.content/images/modulo_consultazione2.doc>`_
-   
    - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_, o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
 
 |
@@ -76,23 +74,15 @@ Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Bibl
 `Libr@rsi <http://librarsi.comune.palermo.it/polo/home>`_  è  il  Portale  del  Polo  SBN  del  Sistema  Bibliotecario  Cittadino  delComune  di  Palermo, che  si  propone  come  indice  di  vari  servizi;  il  portale  è  suddiviso  in  4  Sezioni,  all’interno  delle  quali  è  possibile  ottenere informazioni e servizi evoluti in tempo reale: tutti i servizi sono erogati a partire dal Catalogo on-line di Polo. Librarsi  è  anche  la  vetrina  di  ogni  struttura  cooperante  di  questo  Polo:  attraverso  la  pagina `Biblioteche del Polo <http://librarsi.comune.palermo.it/polo/biblioteche-del-polo/index.html>`_, non solo è possibile consultare l'elenco delle biblioteche cooperanti, ma anche accedere al sito Internet della singola biblioteca. Presso la Biblioteca Comunale di Casa Professa è possibile usufruire dei servizi di:
 
 **Servizio al Pubblico**
-
-   - Lettura,   distribuzione,   consultazione,   prestito   locale,   prestito   inter-bibliotecario in ambito comunale di Patrimonio bibliografico moderno.
-      
+   -Lettura,   distribuzione,   consultazione,   prestito   locale,   prestito   inter-bibliotecario in ambito comunale di Patrimonio bibliografico moderno.
    - Riproduzioni a stampa e digitali.
-      
    - Ricerche  bibliografiche  per  utenti  e  per  singoli  eventi,  reference  e  accesso  Banche Dati.
-      
    - Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili.
    
 **Servizio  Manoscritti  e Rari**
-      
    - Distribuzione e consultazione, Prestito per Eventi espositivi di Patrimonio bibliografico antico (manoscritti, incunaboli, stampe ecc.).
-      
    - Riproduzioni digitali. 
-      
    - Ricerche bibliografiche per singoli utenti e per eventi, reference e accesso Banche Dati.
-      
    - Consultazione on line dei Manoscritti tramite Teca Digitale.
       
 **A chi si rivolge**
@@ -112,13 +102,9 @@ Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Bibl
    
 **Modulistica propedeutica all’erogazione del servizio**
    E’ prevista una modulistica a seconda del servizio richiesto:
-   
    - per la consultazione/prestito di patrimonio bibliografico moderno: nessuna modulistica
-   
    - per la consultazione di patrimonio bibliografico e documentale antico: nessuna modulistica  
-   
    - per  la  riproduzione  digitale  di  patrimonio  bibliografico  e  documentale  antico,  è  prevista  una  modulistica per `motivi di studio <http://bit.ly/2FYqyM1>`_ o per `scopi commerciali <http://bit.ly/2Gel4QJ>`_.
-   
    - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <http://bit.ly/2FYqyM1>`_ o per `scopi commerciali <http://bit.ly/2Gel4QJ>`_.
     
 Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzione dei manoscritti e rari, si prega di consultare le seguenti linee guida: **Linee guida servizi al pubblico** e **Linee guida manoscritti e rari**.
