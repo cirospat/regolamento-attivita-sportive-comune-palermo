@@ -364,11 +364,11 @@ Nessuna
 |
 
 Cantieri Culturali alla Zisa,  Via Paolo Gili n.4, Palermo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------
 
 **Finalità specifiche e Cosa offriamo**
 
-I  Cantieri  Culturali  alla  Zisa,anche  in  collaborazione  con  altri  settori  dell’Amministrazione,  offrono  un  servizio aperto alla cittadinanza per le attività ed eventi culturali finalizzate alla valorizzazione del patrimonio artistico/culturale presso gli spazi: Sala Vittorio De Seta, Sala Tre Navate, Sala Perriera e Botteghe Artigiane, al fine di favorire garantire ed incentivarne la conoscenza, incrementarne la fruibilità e lo sviluppo culturale. 
+I  Cantieri  Culturali  alla  Zisa, anche  in  collaborazione  con  altri  settori  dell’Amministrazione,  offrono  un  servizio aperto alla cittadinanza per le attività ed eventi culturali finalizzate alla valorizzazione del patrimonio artistico/culturale presso gli spazi: Sala Vittorio De Seta, Sala Tre Navate, Sala Perriera e Botteghe Artigiane, al fine di favorire garantire ed incentivarne la conoscenza, incrementarne la fruibilità e lo sviluppo culturale. 
 
 **A chi si rivolge**
 
@@ -397,7 +397,7 @@ Nessuna
 |
 
 Complesso mounumentale dello Spasimo, Via dello Spasimo n. 13, Palermo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------
 
 **Finalità specifiche e Cosa offriamo**
 
@@ -430,14 +430,14 @@ Nessuna
 |
 
 Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa - Sala Mostre e Gipsoteca c/o Palazzo Ziino Via Dante  n.53).
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------
 
 Al link sotto elencato si trova la carta del servizio musei e spazi espositivi: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_18112016100345.pdf5. 
 
 |
 
 Servizi di Toponomastica. Presentazione del Servizio Toponomastica.   
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 **Finalità, missione, caratteristiche, attività e organizzazione del servizio**
 
@@ -543,7 +543,7 @@ il servizio è gratuito
 **Servizio Spazi Etnoantropologici**
 
 Museo Etnografico Siciliano "Giuseppe Pitrè"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
 **Finalità specifiche e Cosa offriamo**
 
@@ -576,7 +576,7 @@ Nessuna
 |
 
 Palazzo Tarallo - sede della Biblioteca etnografica siciliana "Giuseppe Pitrè"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 **Finalità specifiche e Cosa offriamo**
 
