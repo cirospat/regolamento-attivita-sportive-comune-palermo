@@ -74,24 +74,25 @@ Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Bibl
 
 `Libr@rsi <http://librarsi.comune.palermo.it/polo/home>`_  è  il  Portale  del  Polo  SBN  del  Sistema  Bibliotecario  Cittadino  delComune  di  Palermo, che  si  propone  come  indice  di  vari  servizi;  il  portale  è  suddiviso  in  4  Sezioni,  all’interno  delle  quali  è  possibile  ottenere informazioni e servizi evoluti in tempo reale: tutti i servizi sono erogati a partire dal Catalogo on-line di Polo. Librarsi  è  anche  la  vetrina  di  ogni  struttura  cooperante  di  questo  Polo:  attraverso  la  pagina `Biblioteche  del Polo <http://librarsi.comune.palermo.it/polo/biblioteche-del-polo/index.html>`_ ,non solo è possibile consultare l'elenco delle biblioteche cooperanti, ma anche accedere al sito Internet della singola biblioteca. Presso la Biblioteca Comunale di Casa Professa è possibile usufruire dei servizi di:
 
-   **Servizio al Pubblico**
-      - Lettura,   distribuzione,   consultazione,   prestito   locale,   prestito   inter-bibliotecario in ambito comunale di Patrimonio bibliografico moderno.
+**Servizio al Pubblico**
+
+   - Lettura,   distribuzione,   consultazione,   prestito   locale,   prestito   inter-bibliotecario in ambito comunale di Patrimonio bibliografico moderno.
       
-      - Riproduzioni a stampa e digitali.
+   - Riproduzioni a stampa e digitali.
       
-      - Ricerche  bibliografiche  per  utenti  e  per  singoli  eventi,  reference  e  accesso  Banche Dati.
+   - Ricerche  bibliografiche  per  utenti  e  per  singoli  eventi,  reference  e  accesso  Banche Dati.
       
-      - Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili.
+   - Consultazione on line del Catalogo del Polo attraverso App per dispositivi mobili.
    
-   **Servizio  Manoscritti  e Rari**
+**Servizio  Manoscritti  e Rari**
       
-      - Distribuzione e consultazione, Prestito per Eventi espositivi di Patrimonio bibliografico antico (manoscritti, incunaboli, stampe ecc.).
+   - Distribuzione e consultazione, Prestito per Eventi espositivi di Patrimonio bibliografico antico (manoscritti, incunaboli, stampe ecc.).
       
-      - Riproduzioni digitali. 
+   - Riproduzioni digitali. 
       
-      - Ricerche bibliografiche per singoli utenti e per eventi, reference e accesso Banche Dati.
+   - Ricerche bibliografiche per singoli utenti e per eventi, reference e accesso Banche Dati.
       
-      - Consultazione on line dei Manoscritti tramite Teca Digitale.
+   - Consultazione on line dei Manoscritti tramite Teca Digitale.
       
 **A chi si rivolge**
    A  tutti  i  cittadini  italiani,  stranieri,  residenti  e  non.  Ad  ogni  tipo  di  pubblico,  indipendentemente  da  razza,  colore,  età,  orientamento  religioso  e  sessuale,  ad  associazioni  culturali  e  turistiche  enti  e  amministrazioni  pubbliche.
@@ -117,7 +118,7 @@ Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Bibl
    
    - per  la  riproduzione  digitale  di  patrimonio  bibliografico  e  documentale  antico,  è  prevista  una  modulistica per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
    
-    - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
+   - per la fotoriproduzione di patrimonio bibliografico moderno, è prevista una modulistica per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
     
 Al fine di fruire al meglio dei servizi al pubblico e di consultazione/riproduzione dei manoscritti e rari, si prega di consultare le seguenti linee guida: **Linee guida servizi al pubblico** e **Linee guida manoscritti e rari**.
    
@@ -154,5 +155,31 @@ BIBLIOTECA decentrata di BORGO NUOVO - Largo Pozzillo, 7 Palermo
    
 **Modulistica propedeutica all’erogazione del servizio**
    Nessuna
+
+
+ Biblioteca di Brancaccio, Via S. Ciro, 19 - Palermo
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Finalità specifiche e Cosa offriamo**
+   La sezione territoriale di Brancaccio vuole essere una Biblioteca “Amica” che accoglie tutti, impegnandosi a soddisfare con efficienza le esigenze dell’utenza e, in particolare si propone, oltre che con le sue peculiari attività  di  servizio  alla  cittadinanza,  come  volano  nella  vita  socio-culturale  del  quartiere,  coinvolgendo  i  cittadini attivamente in iniziative e collaborazioni.
+   
+**A chi si rivolge**
+   A tutti i cittadini italiani, stranieri, residenti e non e,in modo particolare a tutti gli abitanti del quartiere, senza distinzione di razza, nazionalità, età, religione, idee politiche, disabilità e condizione sociale.
+   
+**Quali  sono  i  passi  per  usufruire  del  servizio: Modalità  di  accesso  (fisica  e  multicanale)  e  requisiti per l’accesso**
+   Per  accedere  al  Servizio  basta  recarsi  presso  la  sede  della  Biblioteca  nei  giorni  e  negli  orari  di  apertura  al  pubblico.
+   
+**Organizzazione**
+   La Biblioteca Brancaccio è ubicata a Palermo in Via S. Ciro n.19 - tel. 091/6306842
+   
+**Giorni e Orari di apertura al pubblico**
+   Il lunedì, martedì, giovedì e venerdì, dalle 8.30 alle 13.30 e il Mercoledì, dalle 8.30 alle 17.30.
+   
+**Quanto costa il servizio**
+   Il servizio è completamente gratuito.
+   
+**Modulistica propedeutica all’erogazione del servizio**
+   Nessuna
+   
 
 
