@@ -20,78 +20,21 @@ Per gli altri servizi di questa Carta:
 
 **a.b Segnalazioni, Suggerimenti e proposte di miglioramento**:
 
-+-----------------+-----------------+-----------------+-----------------+
-| **Servizio**    | **A chi         | **Come farli    | **Cosa          |
-|                 | rivolgersi**    | pervenire**     | succede**       |
-+=================+=================+=================+=================+
-| 1- Servizio     | Al Dirigente    | Via email, o    | l Servizio si   |
-| Archivio        | del Servizio    | cartaceo agli   | attiverà alla   |
-| Cittadino e     | indicato nella  | indirizzi       | verifica e      |
-| Biblioteche     | sez. D          | riportati nella | risoluzione di  |
-| Comunali        |                 | sez. D -        | quanto          |
-|                 |                 | Nessuna         | suggerito o     |
-|                 |                 | modulistica     | richiesto       |
-+-----------------+-----------------+-----------------+-----------------+
-| 2- Cantieri     | Al Capo Area    | Via email, o    | Il Servizio si  |
-| Culturali alla  | e/oalResponsabi | cartaceo agli   | attiverà alla   |
-| Zisa            | le              | indirizzi       | verifica e      |
-|                 | del             | riportati nella | risoluzione di  |
-|                 | Procedimento,   | sez. D, o       | quanto          |
-|                 | così come       | all’URP         | suggerito o     |
-|                 | indicato nella  | all’indirizzo:  | richiesto,      |
-|                 | sezione D       | Palazzo Ziino,  | modulistica     |
-|                 |                 | Via Dante, 53 - |                 |
-|                 |                 | tel.            |                 |
-|                 |                 | 091.7407793 -   |                 |
-|                 |                 | e-mail:urp@comu |                 |
-|                 |                 | ne.palermo.it   |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 3- Complesso    | Al Capo Area    | Telefonicamente | Il Servizio si  |
-| Monumentale     | e/oalResponsabi | o via fax allo  | attiverà alla   |
-| Santa Maria     | le              | 091.6161486 o   | verifica e      |
-| dello Spasimo   | del             | per e-mail:     | risoluzione di  |
-|                 | Procedimento,   | spasimo@comune. | quanto          |
-|                 | così come       | palermo.it      | suggerito o     |
-|                 | indicato nella  | o nella sezione | richiesto,      |
-|                 | sezione D       | “Osservazioni e | modulistica     |
-|                 |                 | suggerimenti”   |                 |
-|                 |                 | del             |                 |
-|                 |                 | questionario    |                 |
-|                 |                 | che viene       |                 |
-|                 |                 | distribuito ai  |                 |
-|                 |                 | visitatori      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 4- Servizio     | Al Capo Area    | Telefonicamente |                 |
-| Musei e Spazi   | e/oalResponsabi | o via fax tel.  |                 |
-| Espositivi      | le              | 091.9828927, o  |                 |
-|                 | del             | per e-mail:     |                 |
-|                 | Procedimento,   | museispaziespos |                 |
-|                 | così come       | itivi@comune.pa |                 |
-|                 | indicato nella  | lermo.it        |                 |
-|                 | sezione D       |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 5- Servizi di   | Al Capo Area    | Via delle       |                 |
-| Toponomastica   | e/oalResponsabi | Pergole, 74,    |                 |
-|                 | le              | tel.            |                 |
-|                 | del             | 0917409188,     |                 |
-|                 | Procedimento,   | e-mail:         |                 |
-|                 | così come       | m.salamone@comu |                 |
-|                 | indicato nella  | ne.palermo.it   |                 |
-|                 | sezione D       |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| 6- Servizio     | Al Capo Area    | Telefonicamente | Il Servizio si  |
-| Spazi           | e/oalResponsabi | o via fax tel.  | attiveràalla    |
-| Etnoantropologi | le              | 091.7409000 -   | verifica e      |
-| ci              | del             | 091.6710641 o   | risoluzione di  |
-|                 | Procedimento,   | e-mail:         | quanto          |
-|                 | così come       | spazietnoantrop | suggerito o     |
-|                 | indicato nella  | ologici@comune. | richiesto       |
-|                 | sezione D       | palermo.it      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-
-
-
-
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| Servizio                                              | A chi rivolgers                                                                       | Come farli pervenire                                                                                                                                                                  | Cosa succede                                                                                     |
++=======================================================+=======================================================================================+=======================================================================================================================================================================================+==================================================================================================+
+| 1- Servizio Archivio Cittadino e Biblioteche Comunali | Al Dirigente del Servizio indicato nella sez. D                                       | Via email, o cartaceo agli indirizzi riportati nella sez. D - Nessuna modulistica                                                                                                     | l Servizio si attiverà alla verifica e risoluzione di quanto suggerito o richiesto               |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| 2- Cantieri Culturali alla Zisa                       | Al Capo Area e/o al Responsabile del Procedimento, così come indicato nella sezione D | Via email, o cartaceo agli indirizzi riportati nella sez. D, o all’URP all’indirizzo: Palazzo Ziino, Via Dante, 53 - tel. 091.7407793 - e-mail:urp@comune.palermo.it                  | Il Servizio si attiverà alla verifica e risoluzione di quanto suggerito o richiesto, modulistica |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| 3- Complesso Monumentale Santa Maria dello Spasimo    | Al Capo Area e/o al Responsabile del Procedimento, così come indicato nella sezione D | Telefonicamente o via fax allo 091.6161486 o per e-mail: spasimo@comune.palermo.it o nella sezione “Osservazioni e suggerimenti” del questionario che viene distribuito ai visitatori | Il Servizio si attiverà alla verifica e risoluzione di quanto suggerito o richiesto, modulistica |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| 4- Servizio Musei e Spazi Espositivi                  | Al Capo Area e/o al Responsabile del Procedimento, così come indicato nella sezione D | Telefonicamente o via fax tel. 091.9828927, o per e-mail: museispaziespositivi@comune.palermo.it                                                                                      |                                                                                                  |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| 5- Servizi di Toponomastica                           | Al Capo Area e/oalResponsabile del Procedimento, così come indicato nella sezione D   | Via delle Pergole, 74, tel. 0917409188, e-mail: m.salamone@comune.palermo.it                                                                                                          |                                                                                                  |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
+| 6- Servizio Spazi Etnoantropologici                   | Al Capo Area e/o al Responsabile del Procedimento, così come indicato nella sezione D | Telefonicamente o via fax tel. 091.7409000 - 091.6710641 o e-mail: spazietnoantropologici@comune.palermo.it                                                                           | Il Servizio si attiverà alla verifica e risoluzione di quanto suggerito o richiesto              |
++-------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+
 
 
 
