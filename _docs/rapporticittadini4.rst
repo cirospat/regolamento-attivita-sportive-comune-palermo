@@ -18,7 +18,7 @@ E’  possibile  presentare  suggerimenti,  reclami,  segnalazioni,  sia  verbal
 
 Per gli altri servizi di questa Carta: 
 
-a.b Segnalazioni, Suggerimenti e proposte di miglioramento:
+**a.b Segnalazioni, Suggerimenti e proposte di miglioramento**:
 
 
 
@@ -32,36 +32,35 @@ a.b Segnalazioni, Suggerimenti e proposte di miglioramento:
 
 
 
-c. Reclami riferiti agli impegni e standard di qualità
+**c. Reclami riferiti agli impegni e standard di qualità**
 
-**A chi rivolgersi**: Capo Area o Responsabile del Procedimento, così come indicato nella sezione.
+*A chi rivolgersi*: Capo Area o Responsabile del Procedimento, così come indicato nella sezione.
 
-**Come farli pervenire**: Via  email,  o  cartaceo  agli  indirizzi  riportati  nella  sez.  D,  o  all’URP  all’indirizzo:  Palazzo  Ziino, Via Dante, 53 tel. 091.7407793 e/o urp@comune.palermo.it
+*Come farli pervenire*: Via  email,  o  cartaceo  agli  indirizzi  riportati  nella  sez.  D,  o  all’URP  all’indirizzo:  Palazzo  Ziino, Via Dante, 53 tel. 091.7407793 e/o urp@comune.palermo.it
 
-**Cosa succede**: Invio e-mail o istanza cartacea presso gli Uffici di pertinenza.
+*Cosa succede*: Invio e-mail o istanza cartacea presso gli Uffici di pertinenza.
 
-**Modulo dei reclami**: modulo reclami.
+*Modulo dei reclami*: modulo reclami.
 
--
 
-d. Rimborsi: (attivo solo per i servizi 1: Archivi e Biblioteche riguardanti copie cartacee e digitalizzate) 
+**d. Rimborsi: (attivo solo per i servizi 1: Archivi e Biblioteche riguardanti copie cartacee e digitalizzate)** 
 
-**A chirivolgersi**: Capo Area o Responsabile del Procedimento, così come indicato nella sezione D.
+*A chirivolgersi*: Capo Area o Responsabile del Procedimento, così come indicato nella sezione D.
 
-**Come farli pervenire** Via email, o cartaceo agli indirizzi riportati nella sez. D.
+*Come farli pervenire* Via email, o cartaceo agli indirizzi riportati nella sez. D.
 
-**Cosa succede**: Invio e-mail o istanza cartacea presso gli Uffici di pertinenza.
+*Cosa succede*: Invio e-mail o istanza cartacea presso gli Uffici di pertinenza.
 
-**Modulo di richiesta rimborsi**:   Nessuno.
+*Modulo di richiesta rimborsi*:   Nessuno.
 
--
 
-e. Indagini di soddisfazione dell’utente 
+
+**e. Indagini di soddisfazione dell’utente**
 
 Ogni  anno  su  taluni  servizi  di  questa  Carta  individuati  dai  Capi  Area  e/o  indicati  nel  Piano  della  Qualità  dell’Ente, sarà  effettuata  almeno  una  rilevazione  per  verificare  il  gradimento  del  Servizio  presso  la  cittadinanza, tramite, indaginidi customersatisfaction.  Gli  esiti  delle  indagini  delle  Biblioteche  comunali  e  dell’Archivio  sono  consultabili  all’indirizzo  web  https://www.comune.palermo.it/amministrazione_trasparente.php?sel=22&asel=252.
 
--
 
-f. Utilizzo di tutte le informazioni 
+
+**f. Utilizzo di tutte le informazioni**
 
 I  risultati  delle  indagini  di  soddisfazione  dei  cittadini,  verranno  resi  noti  alla  cittadinanza  e  serviranno  per  impostare  i  progetti  di  miglioramento  del  Servizio,  infatti  unitamente  alle  segnalazioni,  ai  reclami,  ai  suggerimenti,  verranno  utilizzati  almeno  una  volta  all’anno  dal  Servizio,  per  individuare  nuovi  obiettivi  e  azioni concrete di miglioramento sia del contenuto delle prestazioni offerte, che delle modalità di erogazione ai cittadini, obiettivi azioni e tempi di cui ci si impegna a darne conto nel sito web del Comune.
