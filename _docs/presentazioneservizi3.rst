@@ -62,4 +62,13 @@ L’Archivio  è  sede  di  mostre  e  di  importanti  attività  che  richiaman
    
    - per riproduzione o copie (a pagamento): per `motivi di studio <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a___modello_richiesta_fotoriproduzioni_per_scopi_di_studio.pdf>`_ o per `scopi commerciali <https://servizionline.comune.palermo.it/portcitt/docs/documento/82053/all._a2___modelllo_richiesta_fotoriproduzioni_per_scopi_commerciali.pdf>`_.
 
+|
 
+Sistema Bibliotecario - Biblioteca comunale di Casa Professa, Piazzetta L. Brunaccini n. 2 Palermo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il  7  Maggio  2004,  a  seguito  di  un  protocollo  d'intesa  tra  il  Comune  di  Palermo  e  il  Ministero  dei  Beni  Culturali  ed  Ambientali,  è  stato  istituito  il Polo  SBN  composto  dalla  Biblioteca  Comunale,  dall’Archivio  storico,  da  6  Biblioteche  dislocate  in  diversi  Quartieri  della  città (Biblioteche  territoriali di  Borgo  Nuovo,  Brancaccio,  Pallavicino, Villa  Trabia,  Villa  Costa  (Verde  Terrasi)  e   Biblioteca  dei  ragazzi  Cortile  Scalilla)  e, infine, da altre 20 Biblioteche presenti sul territorio provinciale.
+
+**Finalità specifiche e Cosa offriamo::
+   Il  Sistema  Bibliotecario  del  Comune  di  Palermo  è  costituito  dalla Biblioteca  Comunale  edalle  6  Biblioteche territoriali.  Tali  strutture  svolgono  un  fondamentale  servizio  di  promozione  della  lettura,  rivolto  a  tutti  i  cittadini  che  desiderano  consultare  testi  e  documenti  riguardanti  la  storia  della  città  in  particolare,  e  della  storia in generale.    
+   `Librarsi <http://librarsi.comune.palermo.it/polo/home>`_   è  il  Portale  del  Polo  SBN  del  Sistema  Bibliotecario  Cittadino  delComune  di  Palermo, che  si  propone  come  indice  di  vari  servizi;  il  portale  è  suddiviso  in  4  Sezioni,  all’interno  delle  quali  è  possibile  ottenere informazioni e servizi evoluti in tempo reale: tutti i servizi sono erogati a partire dal Catalogo on-line di Polo. Librarsi  è  anche  la  vetrina  di  ogni  struttura  cooperante  di  questo  Polo:  attraverso  la  paginaBiblioteche  del  Polo,non solo è possibile consultare l'elenco delle biblioteche cooperanti, ma anche accedere al sito Internet della singola biblioteca.Presso la Biblioteca Comunale di Casa Professa è possibile usufruire dei servizi di
