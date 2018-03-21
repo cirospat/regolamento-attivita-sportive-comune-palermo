@@ -45,15 +45,14 @@ Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasp
 +-----------------------------------+-----------------------------------+
 
 
-+-------------------------------------------------------------------------------------------------------------------------------+
-| **Informazioni ulteriori**                                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------+
-| `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_       |
-|                                                                                                                               |
-| `Tabella 1 dei servizi culturali <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115857.pdf>`_      |
-|                                                                                                                               |
-| `Tabella 2 dei servizi culturali <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115952.pdf>`_      |
-+-------------------------------------------------------------------------------------------------------------------------------+
+
+**Informazioni ulteriori**                                                                                                   
+
+`Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_ 
+
+`Tabella 1 dei servizi culturali, standard di qualità <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115857.pdf>`_    
+
+`Tabella 2 dei servizi culturali, informazioni utili <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115952.pdf>`_      |
 
 |
 
