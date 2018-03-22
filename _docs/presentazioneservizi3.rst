@@ -429,8 +429,30 @@ Nessuna
 
 |
 
-Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa - Sala Mostre e Gipsoteca c/o Palazzo Ziino Via Dante  n.53).
+Servizio musei e spazi espositivi (Galleria d’Arte Moderna - Ecomuseo del Mare - Spazio Zac c/o Cantieri Culturali alla Zisa - Sala Mostre e Gipsoteca c/o Palazzo Ziino, Via Dante  n.53).
 -----------------------------------------------------
+
+LA GALLERIA D’ARTE MODERNA 
+
+La Galleria d’Arte Moderna Empedocle Restivo conserva le notevolissime collezioni di dipinti e sculture della seconda metà dell’Ottocento e dei primi decenni del Novecento, formate con una visione di ampio respiro a partire dalla grande Esposizione Nazionale di Palermo del 1891-1892, accolte nelle sale della nuova struttura Museale, moderna e funzionale nella sua concezione presso il complesso monumentale ex Convento S. Anna, apparendo in una luce che le valorizza e ne esalta le qualità. Nel 1910 il Ridotto del Teatro Politeama divenne la sede della Galleria d’Arte Moderna Empedocle Restivo. Le ragioni  di  tale  scelta  furono  motivate  dal  valore  emblematico  del  monumento,  che  testimoniava  la  esaltante stagione della Belle Epoque, e dalla sua stessa collocazione nel cuore della città moderna. Dopo quasi un secolo, il Museo si trasferisce nel centro storico della città, oggi luogo di ricerca e d’incontro tra le diverse identità culturali. Dopo quasi un secolo, la città riscopre il suo Museo in uno spazio di straordinario fascino nel cuore del centro storico  della  città,  di  fronte  a  Palazzo  Ganci,  celebre  set  del  Gattopardo  di  Luchino  Visconti  che  qui  volle ambientare la leggendaria scena del ballo. Un eccellente progetto di restauro ha prima recuperato il complesso, per adeguarlo poi a spazio museale dotato di tutti i servizi in linea con gli standard internazionali. Gli spazi del Complesso Monumentale di Sant’Anna diventano definitivamente la Galleria d’Arte Moderna della Città  di  Palermo,  dotata  di  servizi  per  l’accoglienza,  di  laboratori  didattici,  di  una  biblioteca  e  di  spazi  per esposizioni temporanee. 
+Le 216 opere selezionate, 178 dipinti e 38 sculture, disegnano una nuova fisionomia della Galleria ricostituendo i percorsi affascinanti di un gusto che portò il suo fondatore e prima direttore Empedocle Restivo e i suoi illustri consulenti, come l’Architetto Ernesto Basile (il maggiore interprete del Liberty in Italia) e l’industriale-ebanista Vittorio  Ducrot,  ma  anche  influenti  mecenati  come  Ignazio  Florio,  ad  acquisire  pezzi  che  rappresentassero  al meglio  l’arte  moderna  in  Italia,  soprattutto  alle  biennali  di  Venezia  e  in  altre  importanti  rassegne  o  presso prestigiose gallerie private come la Pesaro a Milano. Il Museo è un’istituzione permanente senza fini di lucro, al servizio della comunità, aperta a tutti i cittadini italiani e stranieri di ogni fascia d’età, il cui scopo primario è quello di custodire, conservare, valorizzare e promuovere lo studio e la conoscenza del patrimonio culturale della città, al fine sia di preservare la memoria e sollecitare la curiosità  nei  confronti  del  passato  sia  di  promuovere  la  conoscenza  di  strumenti  critici  utili  alla  migliore comprensione del presente.  
+Si accede al Museo mediante l’erogazione di un biglietto d’ingresso. 
+
+Il Museo assolve alla propria missione attraverso: 
+
+- l’attività di acquisizione, conservazione, documentazione, studio, esposizione e comunicazione delle proprie collezioni; 
+
+- le  attività  e  le  iniziative    culturali,  informative,  educative,  formative  che  promuove  e  realizza,  tra  cui l’organizzazione  di  mostre  temporanee,  seminari  e  convegni,  corsi  di  formazione  stage,  visite  guidate e laboratori, pubblicazioni e presentazioni; 
+
+- l’attività di ricerca scientifica cimentata in particolare sullo studio e la catalogazione delle collezioni. Il Museo opera secondo criteri di qualità, semplificazione delle procedure, informazioni agli utenti.
+
+ECOMUSEO DEL MARE 
+
+L'Ecomuseo Urbano Mare Memoria Viva, denominato anche in breve Ecomuseo del Mare, con sede a Palermo nell’Ex  Deposito  Locomotive  di  Sant'Erasmo  in  via  Messina  Marine,  in  locali  di  proprietà  comunale,  è  stato istituito con Deliberazione di Giunta Comunale n. 132 del 30.7.2013 e con Determinazioni Dirigenziali n.184 del 13.8.2013 e n.250 del 5.12.2013 La  collezione  è  costituita  da  materiali  narrativi  digitali  messi  a  disposizione  gratuitamente  per  la  fruizione pubblica all'interno della sede.  L’Ecomuseo  è  un luogo  di  cultura  e partecipazione  sociale  al  servizio  della  comunità  e  della  sua  crescita.  Si propone con le sue attività di valorizzare il patrimonio materiale e immateriale attraverso il coinvolgimento della popolazione ai fini di una tutela condivisa e partecipata dei beni culturali presenti sul territorio.
+
+ZAC 
+
+Tra i numerosi spazi dei Cantieri Culturali alla Zisa ha sede ZAC (Zisa zona Arti Contemporanee) che si inquadra in un più ampio progetto di riqualificazione dell’intero sito e di identificazione degli spazi per le diverse funzioni. ZAC, si propone di avviare un processo di valorizzazione dell’Arte Contemporanea e dei processi artistici ad essa connessi. L’identità dello spazio è oggi identificabile in una funzione museale e nella definizione di una strategia di promozione dei nuovi linguaggi dell’arte che si esplica attraverso una coerente programmazione di mostre ed eventi. 
 
 Al link sotto elencato si trova la carta del servizio musei e spazi espositivi: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_18112016100345.pdf. 
 
