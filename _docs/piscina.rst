@@ -27,7 +27,17 @@ ART. 9) E’ OBBLIGATORIO:
    - Fare la doccia prima di accedere in vasca e indossare la cuffia prima di immergersi;  
    - Accedere in vasca passando dagli appositi tunnel con doccia igienizzante automatica.
 
-ART. 10) E' VIETATO: - Fumare in tutti gli ambienti della Struttura; - Scrivere sui muri e sulle porte; - Togliere il costume fuori dalle apposite cabine di rotazione e   girare o sostare, privi di costume, nei corridoi, negli spogliatoi, nelle docce, e nei guardaroba; - Soffermarsi sotto le docce oltre il tempo necessario; - Usare bagnoschiuma, sapone e shampoo durante la doccia;- Usare recipienti di vetro o qualsiasi altro oggetto che possa costituire pericolo; - Consumare cibi e bevande al di fuori dell'area di ristoro; - Affiggere locandine, manifesti o altro non autorizzati dalla Direzione; - Giocare a palla; -Introdurre animali all'interno della Struttura; - Organizzare corsi nuoto o altre attività similari senza la preventiva autorizzazione dell'amministrazione.
+ART. 10) E' VIETATO:
+   - Fumare in tutti gli ambienti della Struttura; 
+   - Scrivere sui muri e sulle porte; - Togliere il costume fuori dalle apposite cabine di rotazione e girare o sostare, privi di costume, nei corridoi, negli spogliatoi, nelle docce, e nei guardaroba; 
+   - Soffermarsi sotto le docce oltre il tempo necessario; 
+   - Usare bagnoschiuma, sapone e shampoo durante la doccia;
+   - Usare recipienti di vetro o qualsiasi altro oggetto che possa costituire pericolo; 
+   - Consumare cibi e bevande al di fuori dell'area di ristoro; 
+   - Affiggere locandine, manifesti o altro non autorizzati dalla Direzione; 
+   - Giocare a palla; 
+   - Introdurre animali all'interno della Struttura; 
+   - Organizzare corsi nuoto o altre attività similari senza la preventiva autorizzazione dell'amministrazione.
 
 ART.11) Ai Tecnici, agli Allenatori, ai Dirigenti e agli Accompagnatori non é consentito fare il bagno a titolo personale (il loro accesso in vasca é autorizzato solamente nelle fasce orarie strettamente collegate con la loro attività, in base ad elenco fornito dalle Società di appartenenza, e comunque nel rispetto delle norme generali).
 
