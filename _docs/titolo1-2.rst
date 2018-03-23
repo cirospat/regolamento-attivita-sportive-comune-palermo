@@ -12,8 +12,9 @@ art. 5
 art. 6
 --------------
 
-1. Le  istanze  per  la  concessione  dell’intervento  partecipativo  all’attività sportiva  annuale,  a  firma  autenticata  del  legale  rappresentante,  devono  essere inoltrate, anche a  mezzo  raccomandata,  almeno  90  giorni  prima  dell’inizio dell’attività, secondo   il   calendario   della   competente   Federazione   o   Ente   di Promozione sportiva riconosciuto dal C.O.N.I.2. 
-Le  istanzeper  la  concessione  dell’intervento  partecipativo  relative  a manifestazioni  devono  essere  presentate  almeno  60  giorni  prima  della  data  prevista per la manifestazione stessa. Tale termine, necessario per l’istruttoria delle istanze,  deve essere considerato a tutela dell’Amministrazione e pertanto, in particolari ipotesidi  rilevante  interesse  per  la  città,  può  essere  ridotto  dalla  stessa  Amministrazione, sentita la commissione consiliare competente.
+1. Le  istanze  per  la  concessione  dell’intervento  partecipativo  all’attività sportiva  annuale,  a  firma  autenticata  del  legale  rappresentante,  devono  essere inoltrate, anche a  mezzo  raccomandata,  almeno  90  giorni  prima  dell’inizio dell’attività, secondo   il   calendario   della   competente   Federazione   o   Ente   di Promozione sportiva riconosciuto dal C.O.N.I.
+
+2. Le  istanze per  la  concessione  dell’intervento  partecipativo  relative  a manifestazioni  devono  essere  presentate  almeno  60  giorni  prima  della  data  prevista per la manifestazione stessa. Tale termine, necessario per l’istruttoria delle istanze,  deve essere considerato a tutela dell’Amministrazione e pertanto, in particolari ipotesidi  rilevante  interesse  per  la  città,  può  essere  ridotto  dalla  stessa  Amministrazione, sentita la commissione consiliare competente.
 
 |
 
