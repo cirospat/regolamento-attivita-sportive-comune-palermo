@@ -1,5 +1,5 @@
 ===================
-Piscina comunale - regolamento
+Regolamento della Piscina comunale
 ===================
 
 
