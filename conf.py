@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Carta servizi area cultura comune di Palermo"
+settings_project_name = "Regolamento attività sportive del comune di Palermo"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'carta-servizi-area-cultura-comune-palermo'
+settings_basename = 'regolamento-attivita-sportive-comune-palermo'
 settings_file_name = 'index'
 
 # -- No need to change below here
