@@ -17,6 +17,7 @@ art. 1 bis
 1. Viene istituita  ai  sensi  dell’art.  11  della  l.  reg.  n.  8  del  16/05/78,   la Consulta  comunale  dello  sport  che  collabora  con  l’Amministrazione  con  funzioni consultive e propositive anche a mezzo di appositi gruppi di lavoro.
 
 2. Fanno parte della Consulta:
+
 - L’Assessore comunale allo Sport;
 
 - Il Presidente del C.O.N.I. o un suo delegato;
