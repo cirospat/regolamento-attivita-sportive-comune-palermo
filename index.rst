@@ -13,14 +13,13 @@ Fonte :
 
 .. figure:: img/sport.PNG
 
+    `Portale dello sport <http://http://sport.comune.palermo.it>`_
 
 **Informazioni ulteriori**                                                                                                   
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_ 
 
 
 .. figure:: img/ccbysa.png
-
-   `Portale dello sport <http://http://sport.comune.palermo.it>`_
 
 Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
 
