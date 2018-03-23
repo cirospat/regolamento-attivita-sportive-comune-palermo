@@ -6,7 +6,9 @@ Regolamento delle attività sportive del comune di Palermo e regolamento della P
 
 Fonte :
    `Regolamento delle attività sportive del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094324.pdf>`_
+   
    `Regolamento della Piscina del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094325.pdf>`_
+   
    `Regolamento dello Stadio delle Palme del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094323.pdf>`_.
 
 .. figure:: img/sport.PNG
