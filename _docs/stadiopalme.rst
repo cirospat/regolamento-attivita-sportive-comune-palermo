@@ -1,5 +1,5 @@
 ==================
-Regolamento Stadio delle Palme
+Regolamento dello Stadio delle Palme
 ==================
 
 **Approvato con DELIBERA G.M. n° 1348 DEL 30/4/1985**
