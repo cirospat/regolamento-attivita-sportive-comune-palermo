@@ -1,9 +1,13 @@
-Carta dei Servizi dell’Area Cultura del Comune di Palermo
+Regolamento delle attività sportive, della Piscina e dello Stadio delle Palme del Comune di Palermo
 ==================================================
 
-**Fonte**: https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_04082017181659.pdf
+**Fonte**: 
+https://www.comune.palermo.it/js/server/normative/_24122012094324.pdf 
+https://www.comune.palermo.it/js/server/normative/_24122012094325.pdf 
+https://www.comune.palermo.it/js/server/normative/_24122012094323.pdf
 
-Questo repository contiene la documentazione relativa alla [Carta dei Servizi dell’Area Cultura del Comune di Palermo](http://carta-servizi-area-cultura-comune-palermo.readthedocs.io). 
+
+Questo repository contiene la documentazione relativa alla [Carta dei Servizi dell’Area Cultura del Comune di Palermo](http://regolamento-attivita-sportive-comune-palermo.readthedocs.io). 
 
 
 Link
