@@ -18,15 +18,15 @@ art. 1 bis
 
 2. Fanno parte della Consulta:
 
-- L’Assessore comunale allo Sport;
+   - L’Assessore comunale allo Sport;
 
-- Il Presidente del C.O.N.I. o un suo delegato;
+   - Il Presidente del C.O.N.I. o un suo delegato;
 
-- Il Provveditore agli studi o un suo delegato;
+   - Il Provveditore agli studi o un suo delegato;
 
-- n.  5  rappresentanti  delle  Federazion sportive  maggiormente  diffuse  nel territorio;
+   - 5  rappresentanti  delle  Federazion sportive  maggiormente  diffuse  nel territorio;
 
-- n. 3 rappresentanti tra gli Enti di promozione sportiva.
+   - 3 rappresentanti tra gli Enti di promozione sportiva.
 
 |
 
