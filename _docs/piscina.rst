@@ -27,7 +27,7 @@ ART. 9) E’ OBBLIGATORIO:
    - Fare la doccia prima di accedere in vasca e indossare la cuffia prima di immergersi;  
    - Accedere in vasca passando dagli appositi tunnel con doccia igienizzante automatica.
 
-ART. 10) E' VIETATO:
+ART. 10) E’ VIETATO:
    - Fumare in tutti gli ambienti della Struttura; 
    - Scrivere sui muri e sulle porte; - Togliere il costume fuori dalle apposite cabine di rotazione e girare o sostare, privi di costume, nei corridoi, negli spogliatoi, nelle docce, e nei guardaroba; 
    - Soffermarsi sotto le docce oltre il tempo necessario; 
