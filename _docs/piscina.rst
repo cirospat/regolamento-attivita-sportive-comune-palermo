@@ -5,10 +5,7 @@ Piscina comunale - regolamento
 
 **PISCINA COMUNALE - Norme di comportamento**
 
-art. 1
---------------
-
-L'accesso é consentito solo alle persone munite di biglietto o della ricevuta di quanto dovuto o altro titolo, dietro esibizione di tessera federale di riconoscimento (per gli atleti e le scuole nuoto) o tessera rilasciata dall'Assessorato allo Sport del Comune di Palermo (per il pubblico). La validità del biglietto di ingresso é di ore 1 (UNA).
+ART. 1) L'accesso é consentito solo alle persone munite di biglietto o della ricevuta di quanto dovuto o altro titolo, dietro esibizione di tessera federale di riconoscimento (per gli atleti e le scuole nuoto) o tessera rilasciata dall'Assessorato allo Sport del Comune di Palermo (per il pubblico). La validità del biglietto di ingresso é di ore 1 (UNA).
 
 ART. 2) I minori di anni 14 devono essere accompagnati in vasca da uno dei genitori o da persona maggiorenne delegata, capace di sorvegliare la loro attività.
 
