@@ -1,13 +1,14 @@
 Regolamento delle attività sportive, della Piscina e dello Stadio delle Palme del Comune di Palermo
 ==================================================
 
-**Fonte**: 
+**Fonte**:
+
 https://www.comune.palermo.it/js/server/normative/_24122012094324.pdf 
 https://www.comune.palermo.it/js/server/normative/_24122012094325.pdf 
 https://www.comune.palermo.it/js/server/normative/_24122012094323.pdf
 
 
-Questo repository contiene la documentazione relativa alla [Carta dei Servizi dell’Area Cultura del Comune di Palermo](http://regolamento-attivita-sportive-comune-palermo.readthedocs.io). 
+Questo repository contiene la documentazione relativa alla [Regolamento delle attività sportive, della Piscina e dello Stadio delle Palme del Comune di Palermo](http://regolamento-attivita-sportive-comune-palermo.readthedocs.io). 
 
 
 Link
