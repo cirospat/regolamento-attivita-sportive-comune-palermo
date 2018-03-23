@@ -13,7 +13,7 @@ art. 20
    
    c) dichiarazione  in  bollo,  sottoscritta  dal  legale  rappresentante,  resa  ai  sensi dell’articolo 20 e previa ammonizione dell’articolo 26 della legge 4 Gennaio 1968 n. 15 con la quale si attesti:
    
-        - che  l’intervento  finanziario  assegnato  dall’Amministrazione  Comunale  è stato utilizzato per l’attivitàper la quale era stato richiesto;
+      - che  l’intervento  finanziario  assegnato  dall’Amministrazione  Comunale  è stato utilizzato per l’attivitàper la quale era stato richiesto;
       - che le spese sostenute ed evidenziate nel rendiconto sono afferenti all’anno o alla stagione cui si riferisce l’intervento finanziario;
       - che   le   entrate,   derivanti   da   altre   eventuali   attività dell’Associazione, unitamente  ai  contributi  erogati  da  enti  pubblici  o  privati  a  sostegno  delle  finalità istituzionali   statutariamente   determinate,   non   producono   nel   bilancio   complessivo dell’annocui  si riferisce  l’intervento un utile  economico.  ( In  caso  contrario specificare la utilizzazione);
       - che  ha  adempiuto  a  tutti  gli  obblighi  in  materia  fiscale,  previdenziali  ed assistenziali previste dalle normative vigenti;
