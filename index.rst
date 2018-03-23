@@ -1,59 +1,20 @@
 ####################
-Carta dei servizi dell'Area Cultura del comune di Palermo
+Regolamento delle attività sportive del comune di Palermo e regolamento della Piscina e dello Stadio delle Palme
 ####################
 
 .. figure:: img/palermo.PNG
 
-Fonte: `Carta dei servizi <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_04082017181659.pdf>`_.
+Fonte :
+   `Regolamento delle attività sportive del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094324.pdf>`_
+   `Regolamento della Piscina del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094325.pdf>`_
+   `Regolamento dello Stadio delle Palme del comune di Palermo <https://www.comune.palermo.it/js/server/normative/_24122012094323.pdf>`_.
 
-.. figure:: img/fotocultura.PNG
-
-+-----------------------------------+-----------------------------------+
-| **Servizi**                       | **Spazi connessi**                |
-+===================================+===================================+
-| 1- Servizio Sistema Bibliotecario | A) Archivio storico comunale - B) |
-| e Archivio Cittadino              | Sistema bibliotecario cittadino   |
-|                                   | (Biblioteca comunale di Casa      |
-|                                   | Professa e Biblioteche            |
-|                                   | decentrate)                       |
-+-----------------------------------+-----------------------------------+
-| 2- Cantieri Culturali della Zisa  | A) Sala Vittorio De Seta - B)     |
-|                                   | Sala Tre Navate - C) Sala         |
-|                                   | Perriera - D) Botteghe Artigiane  |
-+-----------------------------------+-----------------------------------+
-| 3- Complesso Monumentale Santa    |                                   |
-| Maria dello Spasimo               |                                   |
-+-----------------------------------+-----------------------------------+
-| 4- Servizio Musei e Spazi         | A) Galleria Arte Moderna - B)     |
-| Espositivi                        | Ecomuseo del Mare - C) Spazio ZAC |
-|                                   | (Cantieri Culturali Zisa) - D)    |
-|                                   | Sala Mostra c/o Palazzo Ziino -   |
-|                                   | E) Gipsoteca                      |
-+-----------------------------------+-----------------------------------+
-| 5- Servizi di Toponomastica       | A) Rilascio Certificazioni        |
-|                                   | assegnazione di numerazione       |
-|                                   | civica - B) Rilascio Attestazioni |
-|                                   | esatta numerazione civica - C)    |
-|                                   | Rilascio di Attestazione          |
-|                                   | dell’avvenuto cambio di           |
-|                                   | denominazione di un’area di       |
-|                                   | circolazione o di un numero       |
-|                                   | civico                            |
-+-----------------------------------+-----------------------------------+
-| 6- Servizio Spazi                 | A) Museo Pitrè - B) Palazzo       |
-| Etnoatropologici                  | Tarallo                           |
-+-----------------------------------+-----------------------------------+
-
+.. figure:: img/sport.PNG
 
 
 **Informazioni ulteriori**                                                                                                   
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_ 
 
-   `Tabella 1 dei servizi culturali, standard di qualità <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115857.pdf>`_    
-
-   `Tabella 2 dei servizi culturali, informazioni utili <https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_13032018115952.pdf>`_      
-
-|
 
 .. figure:: img/ccbysa.png
 
@@ -61,13 +22,16 @@ Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.or
 
 |
 
-Testo della Carta dei servizi 
+Testo dei Regolamenti
 ==========================
 
 .. toctree::
 
-   _docs/cartaservizi1.rst
-   _docs/normeprincipi2.rst
-   _docs/presentazioneservizi3.rst
-   _docs/rapporticittadini4.rst
-   _docs/informazioniutili5.rst
+   _docs/introduzione1.rst
+   _docs/titolo1-2.rst
+   _docs/titolo2.3.rst
+   _docs/titolo3-4.rst
+   _docs/titolo4-5.rst
+   _docs/titolo5-6.rst
+   _docs/piscina.rst
+   _docs/stadiopalme.rst
