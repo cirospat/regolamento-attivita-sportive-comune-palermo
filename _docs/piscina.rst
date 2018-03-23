@@ -21,7 +21,11 @@ ART. 7) Può essere interdetto al pubblico l'uso della vasca in occasione di man
 
 ART. 8) L'utente o la Società sportiva che, per intemperie o altro fatto non imputabile al Comune, non utilizzi l'Impianto, NON HA DIRITTO AD ALCUN RIMBORSO NE' AL TRASFERIMENTO AD ALTRA DATA DELL'USO DELLA VASCA.
 
-ART. 9) E’ OBBLIGATORIO: - Usare le cabine di rotazione per svestirsi, vestirsi ed indossare o togliere il costume; - Accedere agli spogliatoi, alle docce e al bordo-vasca usando le apposite ciabatte, che devono essere calzate nella zona asciutta degli spogliatoi (cabine di rotazione);- Fare la doccia prima di accedere in vasca e indossare la cuffia prima di immergersi;  - Accedere in vasca passando dagli appositi tunnel con doccia igienizzante automatica.
+ART. 9) E’ OBBLIGATORIO: 
+   - Usare le cabine di rotazione per svestirsi, vestirsi ed indossare o togliere il costume; 
+   - Accedere agli spogliatoi, alle docce e al bordo-vasca usando le apposite ciabatte, che devono essere calzate nella zona asciutta degli spogliatoi (cabine di rotazione);
+   - Fare la doccia prima di accedere in vasca e indossare la cuffia prima di immergersi;  
+   - Accedere in vasca passando dagli appositi tunnel con doccia igienizzante automatica.
 
 ART. 10) E' VIETATO: - Fumare in tutti gli ambienti della Struttura; - Scrivere sui muri e sulle porte; - Togliere il costume fuori dalle apposite cabine di rotazione e   girare o sostare, privi di costume, nei corridoi, negli spogliatoi, nelle docce, e nei guardaroba; - Soffermarsi sotto le docce oltre il tempo necessario; - Usare bagnoschiuma, sapone e shampoo durante la doccia;- Usare recipienti di vetro o qualsiasi altro oggetto che possa costituire pericolo; - Consumare cibi e bevande al di fuori dell'area di ristoro; - Affiggere locandine, manifesti o altro non autorizzati dalla Direzione; - Giocare a palla; -Introdurre animali all'interno della Struttura; - Organizzare corsi nuoto o altre attività similari senza la preventiva autorizzazione dell'amministrazione.
 
