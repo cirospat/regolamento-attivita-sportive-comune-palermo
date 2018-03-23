@@ -13,7 +13,7 @@ Fonte :
 
 .. figure:: img/sport.PNG
 
-    `Portale dello sport <http://http://sport.comune.palermo.it>`_
+    `Portale dello sport <http://sport.comune.palermo.it>`_
 
 **Informazioni ulteriori**                                                                                                   
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_ 
