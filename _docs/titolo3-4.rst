@@ -55,6 +55,7 @@ art. 16
 |
 
 art. 17
+-----------------
 
 1. Le  domande  di  iscrizione  per  i  corsi  devono  contenere  l’indicazione completa  dei  dati  anagrafici  e  la  documentazione  richiesta  e  vanno  presentate  alla Circoscrizione competente.
 
