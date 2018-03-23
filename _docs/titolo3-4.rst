@@ -16,7 +16,7 @@ art. 11
 art.12
 ---------------
 
-1.Entro il  30  giugno, le  Associazioni sportive, senza scopo di  lucro, affiliate  alle  Federazioni  e/o  Enti  di  promozione  sportiva  riconosciuti  dal  C.O.N.I., regolarmente  costituite  ed  operanti  su  territorio  comunale  possono  presentare  alle Circoscrizioniterritoriali competenti  progetti di  educazione  motoria  o  di  avviamento allo sport in conformità alle indicazioni dell’avviso.
+1. Entro il  30  giugno, le  Associazioni sportive, senza scopo di  lucro, affiliate  alle  Federazioni  e/o  Enti  di  promozione  sportiva  riconosciuti  dal  C.O.N.I., regolarmente  costituite  ed  operanti  su  territorio  comunale  possono  presentare  alle Circoscrizioniterritoriali competenti  progetti di  educazione  motoria  o  di  avviamento allo sport in conformità alle indicazioni dell’avviso.
 
 |
 
