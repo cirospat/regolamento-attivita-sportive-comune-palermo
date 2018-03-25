@@ -18,6 +18,7 @@ Fonte :
 **Informazioni ulteriori**                                                                                                   
    `Carta dei Servizi comunali di Palermo <https://www.comune.palermo.it/amministrazione_trasparente.php?sel=16&asel=72>`_ 
 
+|
 
 .. figure:: img/cc-by.png
 
